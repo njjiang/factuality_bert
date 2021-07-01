@@ -1,0 +1,626 @@
+{"idx":0,"targets":[{"span1":[8,9],"span_text":"happened","label":2.7}],"text":"Someone was n't bothered that a particular thing happened","uID":"14-3"}
+{"idx":1,"targets":[{"span1":[7,8],"span_text":"have","label":-2.4}],"text":"A particular person did n't qualify to have a particular thing .","uID":"32-33"}
+{"idx":2,"targets":[{"span1":[8,9],"span_text":"have","label":-2.1}],"text":"Someone did n't permit a particular person to have a particular thing .","uID":"65-17"}
+{"idx":3,"targets":[{"span1":[7,8],"span_text":"happened","label":2.6666666667}],"text":"Someone was forgiven that a particular thing happened","uID":"0-25"}
+{"idx":4,"targets":[{"span1":[6,7],"span_text":"have","label":0.3}],"text":"Someone alleged a particular person to have a particular thing .","uID":"33-14"}
+{"idx":5,"targets":[{"span1":[6,7],"span_text":"have","label":1.2}],"text":"A particular person was certified to have a particular thing .","uID":"71-41"}
+{"idx":6,"targets":[{"span1":[6,7],"span_text":"have","label":2.4}],"text":"A particular person was outraged to have a particular thing .","uID":"53-45"}
+{"idx":7,"targets":[{"span1":[5,6],"span_text":"do","label":-1.2}],"text":"A particular person dreamt to do a particular thing .","uID":"71-38"}
+{"idx":8,"targets":[{"span1":[7,8],"span_text":"have","label":1.5}],"text":"A particular person was n't humbled to have a particular thing .","uID":"46-2"}
+{"idx":9,"targets":[{"span1":[8,9],"span_text":"happened","label":0.3}],"text":"John did n't display that a particular thing happened","uID":"31-61"}
+{"idx":10,"targets":[{"span1":[5,6],"span_text":"do","label":-0.3}],"text":"A particular person anticipated to do a particular thing .","uID":"55-29"}
+{"idx":11,"targets":[{"span1":[8,9],"span_text":"happened","label":0.6}],"text":"Someone did n't fantasize that a particular thing happened","uID":"3-31"}
+{"idx":12,"targets":[{"span1":[8,9],"span_text":"happened","label":1.2}],"text":"John did n't denounce that a particular thing happened","uID":"31-27"}
+{"idx":13,"targets":[{"span1":[6,7],"span_text":"happened","label":-2.4}],"text":"John hallucinated that a particular thing happened","uID":"28-26"}
+{"idx":14,"targets":[{"span1":[7,8],"span_text":"happened","label":3.0}],"text":"John was relieved that a particular thing happened","uID":"26-65"}
+{"idx":15,"targets":[{"span1":[6,7],"span_text":"happened","label":3.0}],"text":"John signified that a particular thing happened","uID":"31-11"}
+{"idx":16,"targets":[{"span1":[5,6],"span_text":"have","label":2.1}],"text":"A particular person testified to have a particular thing .","uID":"56-37"}
+{"idx":17,"targets":[{"span1":[8,9],"span_text":"happened","label":2.1}],"text":"John did n't enjoy that a particular thing happened","uID":"20-57"}
+{"idx":18,"targets":[{"span1":[6,7],"span_text":"do","label":2.7}],"text":"A particular person was angered to do a particular thing .","uID":"65-2"}
+{"idx":19,"targets":[{"span1":[6,7],"span_text":"happened","label":2.7}],"text":"Someone posted that a particular thing happened","uID":"13-67"}
+{"idx":20,"targets":[{"span1":[7,8],"span_text":"have","label":2.7}],"text":"A particular person was figured out to have a particular thing .","uID":"52-48"}
+{"idx":21,"targets":[{"span1":[8,9],"span_text":"happened","label":1.2}],"text":"Someone did n't relate that a particular thing happened","uID":"14-17"}
+{"idx":22,"targets":[{"span1":[8,9],"span_text":"happened","label":1.5}],"text":"John was n't perplexed that a particular thing happened","uID":"19-49"}
+{"idx":23,"targets":[{"span1":[7,8],"span_text":"have","label":-0.6}],"text":"A particular person did n't lobby to have a particular thing .","uID":"64-40"}
+{"idx":24,"targets":[{"span1":[7,8],"span_text":"do","label":0.6}],"text":"A particular person did n't dread to do a particular thing .","uID":"63-34"}
+{"idx":25,"targets":[{"span1":[7,8],"span_text":"have","label":-0.9}],"text":"A particular person did n't inspire to have a particular thing .","uID":"63-18"}
+{"idx":26,"targets":[{"span1":[6,7],"span_text":"do","label":2.4}],"text":"Someone caused a particular person to do a particular thing .","uID":"70-56"}
+{"idx":27,"targets":[{"span1":[7,8],"span_text":"have","label":-1.2}],"text":"A particular person was n't stated to have a particular thing .","uID":"65-49"}
+{"idx":28,"targets":[{"span1":[6,7],"span_text":"happened","label":2.1}],"text":"Someone sighed that a particular thing happened","uID":"10-12"}
+{"idx":29,"targets":[{"span1":[6,7],"span_text":"happened","label":1.2}],"text":"Someone ordained that a particular thing happened","uID":"10-32"}
+{"idx":30,"targets":[{"span1":[8,9],"span_text":"have","label":-0.3}],"text":"Someone did n't accredit a particular person to have a particular thing .","uID":"36-48"}
+{"idx":31,"targets":[{"span1":[7,8],"span_text":"do","label":0.0}],"text":"A particular person did n't hustle to do a particular thing .","uID":"72-33"}
+{"idx":32,"targets":[{"span1":[8,9],"span_text":"happened","label":0.9}],"text":"Someone did n't underline that a particular thing happened","uID":"8-21"}
+{"idx":33,"targets":[{"span1":[8,9],"span_text":"happened","label":0.6}],"text":"Someone did n't fabricate that a particular thing happened","uID":"14-50"}
+{"idx":34,"targets":[{"span1":[7,8],"span_text":"happened","label":3.0}],"text":"John was revolted that a particular thing happened","uID":"19-33"}
+{"idx":35,"targets":[{"span1":[7,8],"span_text":"happen","label":0.0}],"text":"Someone lobbied for a particular thing to happen .","uID":"57-8"}
+{"idx":36,"targets":[{"span1":[7,8],"span_text":"do","label":-1.5}],"text":"A particular person did n't scramble to do a particular thing .","uID":"49-19"}
+{"idx":37,"targets":[{"span1":[8,9],"span_text":"have","label":2.7}],"text":"A particular person was n't freaked out to have a particular thing .","uID":"39-20"}
+{"idx":38,"targets":[{"span1":[8,9],"span_text":"happened","label":0.9}],"text":"Someone did n't lecture that a particular thing happened","uID":"8-32"}
+{"idx":39,"targets":[{"span1":[8,9],"span_text":"happened","label":0.9}],"text":"Someone did n't expose that a particular thing happened","uID":"1-52"}
+{"idx":40,"targets":[{"span1":[6,7],"span_text":"happened","label":2.7}],"text":"John answered that a particular thing happened","uID":"31-32"}
+{"idx":41,"targets":[{"span1":[7,8],"span_text":"do","label":-0.9}],"text":"A particular person did n't anticipate to do a particular thing .","uID":"32-3"}
+{"idx":42,"targets":[{"span1":[7,8],"span_text":"happen","label":0.3}],"text":"Someone screamed for a particular thing to happen .","uID":"58-9"}
+{"idx":43,"targets":[{"span1":[8,9],"span_text":"happened","label":0.0}],"text":"Someone did n't contend that a particular thing happened","uID":"4-9"}
+{"idx":44,"targets":[{"span1":[7,8],"span_text":"happened","label":3.0}],"text":"John was stunned that a particular thing happened","uID":"24-55"}
+{"idx":45,"targets":[{"span1":[8,9],"span_text":"happened","label":2.1}],"text":"John did n't forgive that a particular thing happened","uID":"21-10"}
+{"idx":46,"targets":[{"span1":[6,7],"span_text":"happened","label":1.5}],"text":"John cared that a particular thing happened","uID":"21-12"}
+{"idx":47,"targets":[{"span1":[8,9],"span_text":"do","label":0.3}],"text":"Someone did n't help a particular person to do a particular thing .","uID":"43-40"}
+{"idx":48,"targets":[{"span1":[6,7],"span_text":"do","label":0.9}],"text":"Someone encouraged a particular person to do a particular thing .","uID":"75-16"}
+{"idx":49,"targets":[{"span1":[6,7],"span_text":"happened","label":1.8}],"text":"Someone stressed that a particular thing happened","uID":"2-62"}
+{"idx":50,"targets":[{"span1":[6,7],"span_text":"happened","label":0.6}],"text":"Someone reconsidered that a particular thing happened","uID":"6-49"}
+{"idx":51,"targets":[{"span1":[6,7],"span_text":"happened","label":2.4}],"text":"John confided that a particular thing happened","uID":"30-18"}
+{"idx":52,"targets":[{"span1":[6,7],"span_text":"have","label":-0.6}],"text":"A particular person was joked to have a particular thing .","uID":"74-43"}
+{"idx":53,"targets":[{"span1":[8,9],"span_text":"happened","label":2.1}],"text":"John did n't approve that a particular thing happened","uID":"26-49"}
+{"idx":54,"targets":[{"span1":[9,10],"span_text":"happen","label":-0.3}],"text":"Someone did n't listen for a particular thing to happen .","uID":"40-14"}
+{"idx":55,"targets":[{"span1":[8,9],"span_text":"happened","label":2.7}],"text":"Someone was n't stressed that a particular thing happened","uID":"8-52"}
+{"idx":56,"targets":[{"span1":[6,7],"span_text":"do","label":2.7}],"text":"A particular person was thrilled to do a particular thing .","uID":"75-1"}
+{"idx":57,"targets":[{"span1":[6,7],"span_text":"happened","label":2.4}],"text":"Someone summarized that a particular thing happened","uID":"1-25"}
+{"idx":58,"targets":[{"span1":[6,7],"span_text":"happened","label":2.1}],"text":"John maintained that a particular thing happened","uID":"21-3"}
+{"idx":59,"targets":[{"span1":[7,8],"span_text":"have","label":-0.6}],"text":"A particular person did n't tout to have a particular thing .","uID":"75-42"}
+{"idx":60,"targets":[{"span1":[8,9],"span_text":"happened","label":-0.6666666667}],"text":"Someone did n't prove that a particular thing happened","uID":"0-11"}
+{"idx":61,"targets":[{"span1":[6,7],"span_text":"happened","label":1.8}],"text":"John logged that a particular thing happened","uID":"30-9"}
+{"idx":62,"targets":[{"span1":[5,6],"span_text":"do","label":-0.3}],"text":"A particular person hoped to do a particular thing .","uID":"49-49"}
+{"idx":63,"targets":[{"span1":[8,9],"span_text":"happened","label":2.1}],"text":"Someone did n't ignore that a particular thing happened","uID":"15-28"}
+{"idx":64,"targets":[{"span1":[7,8],"span_text":"happened","label":2.4}],"text":"John was invigorated that a particular thing happened","uID":"21-18"}
+{"idx":65,"targets":[{"span1":[9,10],"span_text":"happened","label":1.5}],"text":"Someone did n't hush up that a particular thing happened","uID":"4-30"}
+{"idx":66,"targets":[{"span1":[7,8],"span_text":"happen","label":1.2}],"text":"Someone meant for a particular thing to happen .","uID":"63-35"}
+{"idx":67,"targets":[{"span1":[6,7],"span_text":"do","label":0.9}],"text":"A particular person was pressured to do a particular thing .","uID":"41-19"}
+{"idx":68,"targets":[{"span1":[7,8],"span_text":"happened","label":2.1}],"text":"John was blamed that a particular thing happened","uID":"26-47"}
+{"idx":69,"targets":[{"span1":[7,8],"span_text":"have","label":0.0}],"text":"A particular person was n't alleged to have a particular thing .","uID":"60-47"}
+{"idx":70,"targets":[{"span1":[7,8],"span_text":"happened","label":-0.6}],"text":"John was deceived that a particular thing happened","uID":"20-8"}
+{"idx":71,"targets":[{"span1":[6,7],"span_text":"have","label":-0.3}],"text":"Someone anticipated a particular person to have a particular thing .","uID":"79-17"}
+{"idx":72,"targets":[{"span1":[6,7],"span_text":"have","label":3.0}],"text":"A particular person was pleased to have a particular thing .","uID":"73-12"}
+{"idx":73,"targets":[{"span1":[5,6],"span_text":"do","label":1.2}],"text":"A particular person contended to do a particular thing .","uID":"41-6"}
+{"idx":74,"targets":[{"span1":[8,9],"span_text":"do","label":0.3}],"text":"Someone did n't steer a particular person to do a particular thing .","uID":"43-18"}
+{"idx":75,"targets":[{"span1":[6,7],"span_text":"do","label":0.3}],"text":"A particular person was registered to do a particular thing .","uID":"57-14"}
+{"idx":76,"targets":[{"span1":[6,7],"span_text":"do","label":0.9}],"text":"Someone hounded a particular person to do a particular thing .","uID":"59-45"}
+{"idx":77,"targets":[{"span1":[8,9],"span_text":"do","label":-0.9}],"text":"Someone did n't engage a particular person to do a particular thing .","uID":"45-1"}
+{"idx":78,"targets":[{"span1":[7,8],"span_text":"happened","label":3.0}],"text":"Someone was anguished that a particular thing happened","uID":"15-44"}
+{"idx":79,"targets":[{"span1":[5,6],"span_text":"do","label":0.3}],"text":"A particular person swore to do a particular thing .","uID":"47-56"}
+{"idx":80,"targets":[{"span1":[6,7],"span_text":"have","label":0.6}],"text":"A particular person was pestered to have a particular thing .","uID":"65-37"}
+{"idx":81,"targets":[{"span1":[9,10],"span_text":"happened","label":0.6}],"text":"Someone did n't reason out that a particular thing happened","uID":"9-14"}
+{"idx":82,"targets":[{"span1":[8,9],"span_text":"happened","label":3.0}],"text":"Someone was n't intimidated that a particular thing happened","uID":"1-62"}
+{"idx":83,"targets":[{"span1":[6,7],"span_text":"do","label":0.6}],"text":"A particular person was sought to do a particular thing .","uID":"75-37"}
+{"idx":84,"targets":[{"span1":[6,7],"span_text":"do","label":0.0}],"text":"A particular person was challenged to do a particular thing .","uID":"73-26"}
+{"idx":85,"targets":[{"span1":[8,9],"span_text":"happened","label":1.2}],"text":"Someone did n't rant that a particular thing happened","uID":"6-26"}
+{"idx":86,"targets":[{"span1":[6,7],"span_text":"happened","label":1.2}],"text":"Someone published that a particular thing happened","uID":"1-3"}
+{"idx":87,"targets":[{"span1":[8,9],"span_text":"have","label":-0.3}],"text":"Someone did n't petition a particular person to have a particular thing .","uID":"71-49"}
+{"idx":88,"targets":[{"span1":[7,8],"span_text":"happened","label":2.7}],"text":"Someone was embittered that a particular thing happened","uID":"9-65"}
+{"idx":89,"targets":[{"span1":[8,9],"span_text":"happened","label":0.9}],"text":"Someone did n't accept that a particular thing happened","uID":"10-40"}
+{"idx":90,"targets":[{"span1":[8,9],"span_text":"do","label":-0.6666666667}],"text":"Someone did n't control a particular person to do a particular thing .","uID":"66-40"}
+{"idx":91,"targets":[{"span1":[6,7],"span_text":"happened","label":1.5}],"text":"Someone sung that a particular thing happened","uID":"14-34"}
+{"idx":92,"targets":[{"span1":[7,8],"span_text":"do","label":-0.9}],"text":"A particular person was n't appointed to do a particular thing .","uID":"65-39"}
+{"idx":93,"targets":[{"span1":[7,8],"span_text":"happen","label":0.6666666667}],"text":"Someone consulted for a particular thing to happen .","uID":"81-6"}
+{"idx":94,"targets":[{"span1":[5,6],"span_text":"have","label":2.6666666667}],"text":"A particular person discovered to have a particular thing .","uID":"51-40"}
+{"idx":95,"targets":[{"span1":[6,7],"span_text":"happened","label":2.4}],"text":"John scoffed that a particular thing happened","uID":"31-56"}
+{"idx":96,"targets":[{"span1":[6,7],"span_text":"happened","label":3.0}],"text":"John exposed that a particular thing happened","uID":"22-5"}
+{"idx":97,"targets":[{"span1":[7,8],"span_text":"do","label":0.0}],"text":"A particular person was n't obligated to do a particular thing .","uID":"34-28"}
+{"idx":98,"targets":[{"span1":[8,9],"span_text":"happened","label":2.1}],"text":"John was n't miffed that a particular thing happened","uID":"21-56"}
+{"idx":99,"targets":[{"span1":[6,7],"span_text":"happened","label":1.8}],"text":"Someone blogged that a particular thing happened","uID":"6-9"}
+{"idx":100,"targets":[{"span1":[8,9],"span_text":"happened","label":-0.3}],"text":"John did n't voice that a particular thing happened","uID":"26-31"}
+{"idx":101,"targets":[{"span1":[7,8],"span_text":"do","label":-1.2}],"text":"A particular person was n't phoned to do a particular thing .","uID":"44-28"}
+{"idx":102,"targets":[{"span1":[7,8],"span_text":"do","label":2.4}],"text":"A particular person was n't appalled to do a particular thing .","uID":"67-43"}
+{"idx":103,"targets":[{"span1":[7,8],"span_text":"have","label":2.6666666667}],"text":"A particular person was n't mortified to have a particular thing .","uID":"81-23"}
+{"idx":104,"targets":[{"span1":[6,7],"span_text":"do","label":1.8}],"text":"A particular person was trained to do a particular thing .","uID":"57-55"}
+{"idx":105,"targets":[{"span1":[8,9],"span_text":"happened","label":1.5}],"text":"John was n't outraged that a particular thing happened","uID":"31-39"}
+{"idx":106,"targets":[{"span1":[7,8],"span_text":"do","label":-1.2}],"text":"A particular person did n't hunger to do a particular thing .","uID":"75-6"}
+{"idx":107,"targets":[{"span1":[6,7],"span_text":"happened","label":0.0}],"text":"Someone fantasized that a particular thing happened","uID":"6-14"}
+{"idx":108,"targets":[{"span1":[6,7],"span_text":"have","label":0.6}],"text":"Someone claimed a particular person to have a particular thing .","uID":"35-2"}
+{"idx":109,"targets":[{"span1":[5,6],"span_text":"have","label":-1.5}],"text":"A particular person yearned to have a particular thing .","uID":"75-2"}
+{"idx":110,"targets":[{"span1":[8,9],"span_text":"happened","label":1.5}],"text":"Someone did n't acknowledge that a particular thing happened","uID":"3-50"}
+{"idx":111,"targets":[{"span1":[8,9],"span_text":"happened","label":0.0}],"text":"John did n't radio that a particular thing happened","uID":"29-60"}
+{"idx":112,"targets":[{"span1":[5,6],"span_text":"have","label":0.3333333333}],"text":"A particular person resolved to have a particular thing .","uID":"66-26"}
+{"idx":113,"targets":[{"span1":[7,8],"span_text":"have","label":-1.5}],"text":"A particular person was n't assessed to have a particular thing .","uID":"75-51"}
+{"idx":114,"targets":[{"span1":[6,7],"span_text":"happened","label":0.9}],"text":"Someone screamed that a particular thing happened","uID":"2-42"}
+{"idx":115,"targets":[{"span1":[7,8],"span_text":"have","label":-0.9}],"text":"A particular person was n't obsessed to have a particular thing .","uID":"33-25"}
+{"idx":116,"targets":[{"span1":[7,8],"span_text":"happen","label":-0.3}],"text":"Someone longed for a particular thing to happen .","uID":"57-20"}
+{"idx":117,"targets":[{"span1":[5,6],"span_text":"have","label":2.1}],"text":"A particular person celebrated to have a particular thing .","uID":"70-57"}
+{"idx":118,"targets":[{"span1":[6,7],"span_text":"do","label":2.4}],"text":"Someone compelled a particular person to do a particular thing .","uID":"40-22"}
+{"idx":119,"targets":[{"span1":[7,8],"span_text":"happen","label":0.6}],"text":"Someone renegotiated for a particular thing to happen .","uID":"43-14"}
+{"idx":120,"targets":[{"span1":[7,8],"span_text":"do","label":-0.6}],"text":"A particular person did n't tweet to do a particular thing .","uID":"43-7"}
+{"idx":121,"targets":[{"span1":[6,7],"span_text":"do","label":2.4}],"text":"A particular person was terrorized to do a particular thing .","uID":"65-16"}
+{"idx":122,"targets":[{"span1":[5,6],"span_text":"do","label":0.6}],"text":"A particular person murmured to do a particular thing .","uID":"72-10"}
+{"idx":123,"targets":[{"span1":[7,8],"span_text":"happen","label":0.3}],"text":"Someone raved for a particular thing to happen .","uID":"36-51"}
+{"idx":124,"targets":[{"span1":[7,8],"span_text":"have","label":-0.3}],"text":"A particular person was n't mentioned to have a particular thing .","uID":"37-7"}
+{"idx":125,"targets":[{"span1":[6,7],"span_text":"have","label":2.1}],"text":"Someone understood a particular person to have a particular thing .","uID":"55-30"}
+{"idx":126,"targets":[{"span1":[6,7],"span_text":"have","label":0.3}],"text":"A particular person was taught to have a particular thing .","uID":"79-39"}
+{"idx":127,"targets":[{"span1":[8,9],"span_text":"happened","label":1.8}],"text":"John was n't scared that a particular thing happened","uID":"31-9"}
+{"idx":128,"targets":[{"span1":[8,9],"span_text":"happened","label":1.5}],"text":"Someone was n't tantalized that a particular thing happened","uID":"13-4"}
+{"idx":129,"targets":[{"span1":[9,10],"span_text":"happen","label":-0.9}],"text":"Someone did n't stipulate for a particular thing to happen .","uID":"70-45"}
+{"idx":130,"targets":[{"span1":[6,7],"span_text":"happened","label":0.6}],"text":"Someone promised that a particular thing happened","uID":"7-6"}
+{"idx":131,"targets":[{"span1":[7,8],"span_text":"happened","label":2.7}],"text":"Someone was infuriated that a particular thing happened","uID":"7-2"}
+{"idx":132,"targets":[{"span1":[8,9],"span_text":"happened","label":0.0}],"text":"Someone did n't email that a particular thing happened","uID":"2-49"}
+{"idx":133,"targets":[{"span1":[7,8],"span_text":"do","label":-0.9}],"text":"A particular person was n't motivated to do a particular thing .","uID":"34-26"}
+{"idx":134,"targets":[{"span1":[7,8],"span_text":"happened","label":2.7}],"text":"John was spellbound that a particular thing happened","uID":"18-59"}
+{"idx":135,"targets":[{"span1":[7,8],"span_text":"do","label":-2.1}],"text":"A particular person was n't invited to do a particular thing .","uID":"32-25"}
+{"idx":136,"targets":[{"span1":[5,6],"span_text":"have","label":-0.3333333333}],"text":"A particular person joked to have a particular thing .","uID":"81-57"}
+{"idx":137,"targets":[{"span1":[8,9],"span_text":"happened","label":0.3}],"text":"John did n't warn that a particular thing happened","uID":"31-23"}
+{"idx":138,"targets":[{"span1":[8,9],"span_text":"happened","label":0.6}],"text":"John was n't galled that a particular thing happened","uID":"26-2"}
+{"idx":139,"targets":[{"span1":[5,6],"span_text":"have","label":2.1}],"text":"A particular person accepted to have a particular thing .","uID":"46-39"}
+{"idx":140,"targets":[{"span1":[6,7],"span_text":"do","label":2.4}],"text":"Someone stimulated a particular person to do a particular thing .","uID":"44-48"}
+{"idx":141,"targets":[{"span1":[6,7],"span_text":"have","label":1.8}],"text":"A particular person was designated to have a particular thing .","uID":"67-30"}
+{"idx":142,"targets":[{"span1":[8,9],"span_text":"happened","label":2.4}],"text":"John was n't impressed that a particular thing happened","uID":"20-49"}
+{"idx":143,"targets":[{"span1":[6,7],"span_text":"have","label":0.9}],"text":"A particular person was urged to have a particular thing .","uID":"40-5"}
+{"idx":144,"targets":[{"span1":[6,7],"span_text":"happened","label":-0.3}],"text":"John rejected that a particular thing happened","uID":"18-3"}
+{"idx":145,"targets":[{"span1":[6,7],"span_text":"do","label":1.5}],"text":"A particular person was pressed to do a particular thing .","uID":"73-36"}
+{"idx":146,"targets":[{"span1":[6,7],"span_text":"do","label":2.1}],"text":"A particular person was upset to do a particular thing .","uID":"54-9"}
+{"idx":147,"targets":[{"span1":[7,8],"span_text":"happened","label":2.4}],"text":"John was humbled that a particular thing happened","uID":"30-10"}
+{"idx":148,"targets":[{"span1":[6,7],"span_text":"happened","label":-1.5}],"text":"John fantasized that a particular thing happened","uID":"25-35"}
+{"idx":149,"targets":[{"span1":[6,7],"span_text":"do","label":2.1}],"text":"A particular person was elated to do a particular thing .","uID":"72-12"}
+{"idx":150,"targets":[{"span1":[6,7],"span_text":"happened","label":2.7}],"text":"Someone hated that a particular thing happened","uID":"8-64"}
+{"idx":151,"targets":[{"span1":[5,6],"span_text":"have","label":-1.0}],"text":"A particular person begged to have a particular thing .","uID":"38-36"}
+{"idx":152,"targets":[{"span1":[6,7],"span_text":"do","label":0.0}],"text":"Someone advised a particular person to do a particular thing .","uID":"81-55"}
+{"idx":153,"targets":[{"span1":[6,7],"span_text":"happened","label":2.1}],"text":"Someone underlined that a particular thing happened","uID":"2-22"}
+{"idx":154,"targets":[{"span1":[8,9],"span_text":"have","label":-0.9}],"text":"Someone did n't train a particular person to have a particular thing .","uID":"76-9"}
+{"idx":155,"targets":[{"span1":[7,8],"span_text":"happened","label":2.7}],"text":"Someone was humbled that a particular thing happened","uID":"4-42"}
+{"idx":156,"targets":[{"span1":[8,9],"span_text":"happened","label":2.4}],"text":"Someone was n't bugged that a particular thing happened","uID":"9-56"}
+{"idx":157,"targets":[{"span1":[7,8],"span_text":"do","label":-0.6}],"text":"A particular person was n't described to do a particular thing .","uID":"64-52"}
+{"idx":158,"targets":[{"span1":[8,9],"span_text":"happened","label":1.2}],"text":"John was n't spooked that a particular thing happened","uID":"30-19"}
+{"idx":159,"targets":[{"span1":[6,7],"span_text":"happened","label":1.8}],"text":"John wrote that a particular thing happened","uID":"25-26"}
+{"idx":160,"targets":[{"span1":[7,8],"span_text":"have","label":-0.3}],"text":"A particular person did n't stipulate to have a particular thing .","uID":"71-45"}
+{"idx":161,"targets":[{"span1":[8,9],"span_text":"do","label":-1.5}],"text":"Someone did n't elect a particular person to do a particular thing .","uID":"34-44"}
+{"idx":162,"targets":[{"span1":[7,8],"span_text":"have","label":-0.3}],"text":"A particular person was n't verified to have a particular thing .","uID":"39-1"}
+{"idx":163,"targets":[{"span1":[7,8],"span_text":"do","label":0.6666666667}],"text":"A particular person did n't object to do a particular thing .","uID":"66-33"}
+{"idx":164,"targets":[{"span1":[6,7],"span_text":"do","label":0.9}],"text":"A particular person was excited to do a particular thing .","uID":"49-5"}
+{"idx":165,"targets":[{"span1":[6,7],"span_text":"do","label":1.2}],"text":"Someone terrorized a particular person to do a particular thing .","uID":"54-19"}
+{"idx":166,"targets":[{"span1":[8,9],"span_text":"do","label":-0.9}],"text":"Someone did n't bother a particular person to do a particular thing .","uID":"43-27"}
+{"idx":167,"targets":[{"span1":[8,9],"span_text":"happened","label":2.7}],"text":"Someone was n't enthused that a particular thing happened","uID":"2-32"}
+{"idx":168,"targets":[{"span1":[5,6],"span_text":"do","label":0.3333333333}],"text":"A particular person hesitated to do a particular thing .","uID":"38-38"}
+{"idx":169,"targets":[{"span1":[6,7],"span_text":"happened","label":2.4}],"text":"John certified that a particular thing happened","uID":"18-35"}
+{"idx":170,"targets":[{"span1":[6,7],"span_text":"happened","label":2.7}],"text":"Someone gushed that a particular thing happened","uID":"5-10"}
+{"idx":171,"targets":[{"span1":[8,9],"span_text":"happened","label":2.4}],"text":"John was n't upset that a particular thing happened","uID":"19-31"}
+{"idx":172,"targets":[{"span1":[8,9],"span_text":"happened","label":1.2}],"text":"John was n't alerted that a particular thing happened","uID":"31-38"}
+{"idx":173,"targets":[{"span1":[7,8],"span_text":"happened","label":2.7}],"text":"John was heartened that a particular thing happened","uID":"21-22"}
+{"idx":174,"targets":[{"span1":[7,8],"span_text":"do","label":-2.4}],"text":"A particular person was n't included to do a particular thing .","uID":"42-51"}
+{"idx":175,"targets":[{"span1":[8,9],"span_text":"do","label":-2.1}],"text":"Someone did n't convince a particular person to do a particular thing .","uID":"61-35"}
+{"idx":176,"targets":[{"span1":[5,6],"span_text":"have","label":-0.6}],"text":"A particular person mused to have a particular thing .","uID":"65-32"}
+{"idx":177,"targets":[{"span1":[8,9],"span_text":"happened","label":0.3}],"text":"Someone did n't uphold that a particular thing happened","uID":"14-67"}
+{"idx":178,"targets":[{"span1":[6,7],"span_text":"have","label":3.0}],"text":"Someone knew a particular person to have a particular thing .","uID":"68-6"}
+{"idx":179,"targets":[{"span1":[8,9],"span_text":"happened","label":1.2}],"text":"Someone did n't share that a particular thing happened","uID":"3-32"}
+{"idx":180,"targets":[{"span1":[5,6],"span_text":"do","label":0.3}],"text":"A particular person looked to do a particular thing .","uID":"50-56"}
+{"idx":181,"targets":[{"span1":[6,7],"span_text":"happened","label":1.2}],"text":"John teased that a particular thing happened","uID":"24-51"}
+{"idx":182,"targets":[{"span1":[8,9],"span_text":"happened","label":1.5}],"text":"John did n't surmise that a particular thing happened","uID":"25-7"}
+{"idx":183,"targets":[{"span1":[6,7],"span_text":"happened","label":2.7}],"text":"Someone witnessed that a particular thing happened","uID":"3-6"}
+{"idx":184,"targets":[{"span1":[6,7],"span_text":"have","label":2.7}],"text":"A particular person was displeased to have a particular thing .","uID":"36-13"}
+{"idx":185,"targets":[{"span1":[7,8],"span_text":"do","label":0.0}],"text":"A particular person did n't suppose to do a particular thing .","uID":"55-19"}
+{"idx":186,"targets":[{"span1":[6,7],"span_text":"have","label":2.1}],"text":"Someone proved a particular person to have a particular thing .","uID":"75-20"}
+{"idx":187,"targets":[{"span1":[7,8],"span_text":"do","label":-0.9}],"text":"A particular person was n't drawn to do a particular thing .","uID":"53-39"}
+{"idx":188,"targets":[{"span1":[6,7],"span_text":"happened","label":-0.3}],"text":"John desired that a particular thing happened","uID":"22-13"}
+{"idx":189,"targets":[{"span1":[6,7],"span_text":"do","label":0.6}],"text":"Someone threatened a particular person to do a particular thing .","uID":"75-55"}
+{"idx":190,"targets":[{"span1":[6,7],"span_text":"have","label":-0.3}],"text":"A particular person set out to have a particular thing .","uID":"65-54"}
+{"idx":191,"targets":[{"span1":[6,7],"span_text":"do","label":0.9}],"text":"A particular person was ensured to do a particular thing .","uID":"35-49"}
+{"idx":192,"targets":[{"span1":[6,7],"span_text":"happened","label":1.8}],"text":"Someone ignored that a particular thing happened","uID":"6-47"}
+{"idx":193,"targets":[{"span1":[6,7],"span_text":"have","label":0.3}],"text":"Someone reported a particular person to have a particular thing .","uID":"71-52"}
+{"idx":194,"targets":[{"span1":[6,7],"span_text":"happened","label":2.4}],"text":"John mourned that a particular thing happened","uID":"24-26"}
+{"idx":195,"targets":[{"span1":[8,9],"span_text":"have","label":-0.3}],"text":"Someone did n't disprove a particular person to have a particular thing .","uID":"47-48"}
+{"idx":196,"targets":[{"span1":[6,7],"span_text":"do","label":1.6666666667}],"text":"A particular person was tormented to do a particular thing .","uID":"51-24"}
+{"idx":197,"targets":[{"span1":[6,7],"span_text":"happened","label":0.9}],"text":"Someone rejected that a particular thing happened","uID":"14-43"}
+{"idx":198,"targets":[{"span1":[7,8],"span_text":"do","label":-1.5}],"text":"A particular person was n't disciplined to do a particular thing .","uID":"56-4"}
+{"idx":199,"targets":[{"span1":[6,7],"span_text":"have","label":0.6}],"text":"A particular person was foreseen to have a particular thing .","uID":"39-31"}
+{"idx":200,"targets":[{"span1":[8,9],"span_text":"happened","label":0.0}],"text":"John did n't feel that a particular thing happened","uID":"29-39"}
+{"idx":201,"targets":[{"span1":[8,9],"span_text":"happened","label":1.8}],"text":"Someone did n't groan that a particular thing happened","uID":"1-32"}
+{"idx":202,"targets":[{"span1":[7,8],"span_text":"do","label":-1.6666666667}],"text":"A particular person was n't approached to do a particular thing .","uID":"81-25"}
+{"idx":203,"targets":[{"span1":[8,9],"span_text":"have","label":-0.6}],"text":"Someone did n't okay a particular person to have a particular thing .","uID":"62-6"}
+{"idx":204,"targets":[{"span1":[6,7],"span_text":"happened","label":2.7}],"text":"Someone proved that a particular thing happened","uID":"12-55"}
+{"idx":205,"targets":[{"span1":[7,8],"span_text":"happened","label":1.2}],"text":"Someone was nonplussed that a particular thing happened","uID":"8-25"}
+{"idx":206,"targets":[{"span1":[6,7],"span_text":"happened","label":0.9}],"text":"Someone heard that a particular thing happened","uID":"5-47"}
+{"idx":207,"targets":[{"span1":[6,7],"span_text":"do","label":1.8}],"text":"Someone enticed a particular person to do a particular thing .","uID":"40-1"}
+{"idx":208,"targets":[{"span1":[8,9],"span_text":"happened","label":2.1}],"text":"Someone did n't grimace that a particular thing happened","uID":"7-3"}
+{"idx":209,"targets":[{"span1":[7,8],"span_text":"happen","label":-0.3}],"text":"Someone willed for a particular thing to happen .","uID":"34-34"}
+{"idx":210,"targets":[{"span1":[7,8],"span_text":"happened","label":1.8}],"text":"John was tantalized that a particular thing happened","uID":"26-8"}
+{"idx":211,"targets":[{"span1":[6,7],"span_text":"do","label":0.3}],"text":"A particular person was qualified to do a particular thing .","uID":"67-55"}
+{"idx":212,"targets":[{"span1":[7,8],"span_text":"happened","label":2.7}],"text":"John was aroused that a particular thing happened","uID":"28-55"}
+{"idx":213,"targets":[{"span1":[8,9],"span_text":"happened","label":-0.3}],"text":"Someone did n't advertise that a particular thing happened","uID":"11-61"}
+{"idx":214,"targets":[{"span1":[8,9],"span_text":"happened","label":-0.6}],"text":"John did n't recall that a particular thing happened","uID":"26-15"}
+{"idx":215,"targets":[{"span1":[7,8],"span_text":"have","label":1.3333333333}],"text":"A particular person was n't stressed to have a particular thing .","uID":"38-57"}
+{"idx":216,"targets":[{"span1":[6,7],"span_text":"have","label":3.0}],"text":"A particular person was admitted to have a particular thing .","uID":"39-53"}
+{"idx":217,"targets":[{"span1":[7,8],"span_text":"do","label":-0.6}],"text":"A particular person did n't assign to do a particular thing .","uID":"65-11"}
+{"idx":218,"targets":[{"span1":[8,9],"span_text":"happened","label":2.4}],"text":"Someone did n't envy that a particular thing happened","uID":"1-39"}
+{"idx":219,"targets":[{"span1":[9,10],"span_text":"happen","label":0.0}],"text":"Someone did n't testify for a particular thing to happen .","uID":"57-12"}
+{"idx":220,"targets":[{"span1":[7,8],"span_text":"do","label":-1.5}],"text":"A particular person was n't recruited to do a particular thing .","uID":"47-26"}
+{"idx":221,"targets":[{"span1":[7,8],"span_text":"happened","label":2.7}],"text":"John was baffled that a particular thing happened","uID":"21-16"}
+{"idx":222,"targets":[{"span1":[8,9],"span_text":"happened","label":2.4}],"text":"John was n't startled that a particular thing happened","uID":"29-23"}
+{"idx":223,"targets":[{"span1":[7,8],"span_text":"have","label":0.9}],"text":"A particular person did n't gloat to have a particular thing .","uID":"57-22"}
+{"idx":224,"targets":[{"span1":[8,9],"span_text":"happened","label":-0.3}],"text":"John did n't fax that a particular thing happened","uID":"20-7"}
+{"idx":225,"targets":[{"span1":[8,9],"span_text":"have","label":-0.6666666667}],"text":"Someone did n't phone a particular person to have a particular thing .","uID":"38-14"}
+{"idx":226,"targets":[{"span1":[6,7],"span_text":"do","label":0.6}],"text":"A particular person was set to do a particular thing .","uID":"59-37"}
+{"idx":227,"targets":[{"span1":[7,8],"span_text":"happened","label":2.7}],"text":"Someone was aggravated that a particular thing happened","uID":"13-44"}
+{"idx":228,"targets":[{"span1":[5,6],"span_text":"have","label":3.0}],"text":"A particular person admitted to have a particular thing .","uID":"48-16"}
+{"idx":229,"targets":[{"span1":[8,9],"span_text":"happened","label":1.8}],"text":"Someone was n't gratified that a particular thing happened","uID":"6-21"}
+{"idx":230,"targets":[{"span1":[7,8],"span_text":"happened","label":2.4}],"text":"Someone was disgusted that a particular thing happened","uID":"15-43"}
+{"idx":231,"targets":[{"span1":[5,6],"span_text":"do","label":0.9}],"text":"A particular person seemed to do a particular thing .","uID":"49-39"}
+{"idx":232,"targets":[{"span1":[7,8],"span_text":"have","label":1.6666666667}],"text":"A particular person was n't awed to have a particular thing .","uID":"66-48"}
+{"idx":233,"targets":[{"span1":[7,8],"span_text":"happened","label":2.7}],"text":"Someone was galled that a particular thing happened","uID":"15-11"}
+{"idx":234,"targets":[{"span1":[7,8],"span_text":"happened","label":2.7}],"text":"Someone was excited that a particular thing happened","uID":"12-2"}
+{"idx":235,"targets":[{"span1":[8,9],"span_text":"happened","label":-0.3}],"text":"John did n't narrate that a particular thing happened","uID":"26-6"}
+{"idx":236,"targets":[{"span1":[7,8],"span_text":"do","label":0.9}],"text":"A particular person was n't contented to do a particular thing .","uID":"39-2"}
+{"idx":237,"targets":[{"span1":[7,8],"span_text":"happened","label":3.0}],"text":"John was surprised that a particular thing happened","uID":"29-3"}
+{"idx":238,"targets":[{"span1":[8,9],"span_text":"happened","label":2.3333333333}],"text":"Someone did n't warn that a particular thing happened","uID":"0-66"}
+{"idx":239,"targets":[{"span1":[8,9],"span_text":"do","label":-1.5}],"text":"Someone did n't notify a particular person to do a particular thing .","uID":"73-13"}
+{"idx":240,"targets":[{"span1":[8,9],"span_text":"happened","label":-0.6}],"text":"John did n't testify that a particular thing happened","uID":"17-31"}
+{"idx":241,"targets":[{"span1":[8,9],"span_text":"do","label":-0.3}],"text":"Someone did n't lecture a particular person to do a particular thing .","uID":"75-48"}
+{"idx":242,"targets":[{"span1":[6,7],"span_text":"happened","label":-0.6}],"text":"Someone dreamt that a particular thing happened","uID":"9-61"}
+{"idx":243,"targets":[{"span1":[5,6],"span_text":"do","label":1.5}],"text":"A particular person willed to do a particular thing .","uID":"44-34"}
+{"idx":244,"targets":[{"span1":[6,7],"span_text":"do","label":1.2}],"text":"Someone elected a particular person to do a particular thing .","uID":"73-55"}
+{"idx":245,"targets":[{"span1":[6,7],"span_text":"happened","label":2.1}],"text":"Someone squealed that a particular thing happened","uID":"8-65"}
+{"idx":246,"targets":[{"span1":[7,8],"span_text":"have","label":-0.9}],"text":"A particular person was n't reasoned to have a particular thing .","uID":"50-11"}
+{"idx":247,"targets":[{"span1":[7,8],"span_text":"do","label":2.4}],"text":"A particular person was n't annoyed to do a particular thing .","uID":"34-18"}
+{"idx":248,"targets":[{"span1":[8,9],"span_text":"happened","label":1.8}],"text":"John was n't disheartened that a particular thing happened","uID":"29-41"}
+{"idx":249,"targets":[{"span1":[8,9],"span_text":"happened","label":0.3}],"text":"Someone was n't questioned that a particular thing happened","uID":"13-30"}
+{"idx":250,"targets":[{"span1":[8,9],"span_text":"happened","label":0.3}],"text":"Someone did n't bet that a particular thing happened","uID":"7-26"}
+{"idx":251,"targets":[{"span1":[8,9],"span_text":"do","label":-0.6}],"text":"Someone did n't shock a particular person to do a particular thing .","uID":"62-34"}
+{"idx":252,"targets":[{"span1":[7,8],"span_text":"happen","label":0.0}],"text":"Someone tested for a particular thing to happen .","uID":"74-46"}
+{"idx":253,"targets":[{"span1":[6,7],"span_text":"happened","label":2.7}],"text":"Someone demonstrated that a particular thing happened","uID":"12-18"}
+{"idx":254,"targets":[{"span1":[7,8],"span_text":"happened","label":2.7}],"text":"Someone was disturbed that a particular thing happened","uID":"3-42"}
+{"idx":255,"targets":[{"span1":[9,10],"span_text":"happen","label":-0.6}],"text":"Someone did n't urge for a particular thing to happen .","uID":"39-50"}
+{"idx":256,"targets":[{"span1":[8,9],"span_text":"happened","label":1.2}],"text":"Someone did n't jest that a particular thing happened","uID":"13-68"}
+{"idx":257,"targets":[{"span1":[7,8],"span_text":"do","label":-1.2}],"text":"A particular person was n't marked to do a particular thing .","uID":"70-39"}
+{"idx":258,"targets":[{"span1":[7,8],"span_text":"do","label":-0.9}],"text":"A particular person did n't say to do a particular thing .","uID":"41-16"}
+{"idx":259,"targets":[{"span1":[6,7],"span_text":"happened","label":0.3}],"text":"John demanded that a particular thing happened","uID":"16-20"}
+{"idx":260,"targets":[{"span1":[8,9],"span_text":"happened","label":2.1}],"text":"Someone was n't surprised that a particular thing happened","uID":"10-22"}
+{"idx":261,"targets":[{"span1":[6,7],"span_text":"have","label":2.4}],"text":"Someone motivated a particular person to have a particular thing .","uID":"79-53"}
+{"idx":262,"targets":[{"span1":[7,8],"span_text":"do","label":0.3}],"text":"A particular person did n't counsel to do a particular thing .","uID":"63-38"}
+{"idx":263,"targets":[{"span1":[7,8],"span_text":"have","label":-0.6}],"text":"A particular person did n't bark to have a particular thing .","uID":"62-31"}
+{"idx":264,"targets":[{"span1":[8,9],"span_text":"happened","label":0.3}],"text":"John did n't desire that a particular thing happened","uID":"23-15"}
+{"idx":265,"targets":[{"span1":[7,8],"span_text":"happen","label":0.0}],"text":"Someone muttered for a particular thing to happen .","uID":"48-49"}
+{"idx":266,"targets":[{"span1":[8,9],"span_text":"happened","label":0.0}],"text":"Someone did n't pretend that a particular thing happened","uID":"4-47"}
+{"idx":267,"targets":[{"span1":[8,9],"span_text":"happened","label":0.3}],"text":"Someone did n't witness that a particular thing happened","uID":"4-1"}
+{"idx":268,"targets":[{"span1":[6,7],"span_text":"have","label":0.0}],"text":"A particular person was advised to have a particular thing .","uID":"32-32"}
+{"idx":269,"targets":[{"span1":[6,7],"span_text":"happened","label":3.0}],"text":"Someone updated that a particular thing happened","uID":"0-2"}
+{"idx":270,"targets":[{"span1":[8,9],"span_text":"happened","label":0.6}],"text":"John did n't disregard that a particular thing happened","uID":"24-16"}
+{"idx":271,"targets":[{"span1":[6,7],"span_text":"do","label":0.9}],"text":"A particular person was designated to do a particular thing .","uID":"40-29"}
+{"idx":272,"targets":[{"span1":[8,9],"span_text":"happened","label":2.1}],"text":"Someone was n't blamed that a particular thing happened","uID":"13-15"}
+{"idx":273,"targets":[{"span1":[8,9],"span_text":"happened","label":-0.9}],"text":"Someone did n't decree that a particular thing happened","uID":"12-10"}
+{"idx":274,"targets":[{"span1":[6,7],"span_text":"do","label":2.7}],"text":"Someone used a particular person to do a particular thing .","uID":"72-47"}
+{"idx":275,"targets":[{"span1":[6,7],"span_text":"happened","label":2.1}],"text":"John missed that a particular thing happened","uID":"17-62"}
+{"idx":276,"targets":[{"span1":[7,8],"span_text":"happened","label":3.0}],"text":"John was puzzled that a particular thing happened","uID":"31-15"}
+{"idx":277,"targets":[{"span1":[5,6],"span_text":"have","label":0.0}],"text":"A particular person proposed to have a particular thing .","uID":"57-38"}
+{"idx":278,"targets":[{"span1":[6,7],"span_text":"happened","label":3.0}],"text":"Someone regretted that a particular thing happened","uID":"9-32"}
+{"idx":279,"targets":[{"span1":[5,6],"span_text":"have","label":-2.1}],"text":"A particular person failed to have a particular thing .","uID":"69-22"}
+{"idx":280,"targets":[{"span1":[8,9],"span_text":"happened","label":2.7}],"text":"John was n't hurt that a particular thing happened","uID":"23-38"}
+{"idx":281,"targets":[{"span1":[6,7],"span_text":"happened","label":0.3}],"text":"Someone thought that a particular thing happened","uID":"12-4"}
+{"idx":282,"targets":[{"span1":[6,7],"span_text":"happened","label":-0.3}],"text":"John theorized that a particular thing happened","uID":"19-38"}
+{"idx":283,"targets":[{"span1":[9,10],"span_text":"happened","label":0.6}],"text":"Someone did n't come out that a particular thing happened","uID":"1-9"}
+{"idx":284,"targets":[{"span1":[6,7],"span_text":"do","label":1.6666666667}],"text":"A particular person was tortured to do a particular thing .","uID":"81-41"}
+{"idx":285,"targets":[{"span1":[5,6],"span_text":"have","label":3.0}],"text":"A particular person revealed to have a particular thing .","uID":"44-29"}
+{"idx":286,"targets":[{"span1":[7,8],"span_text":"do","label":-0.9}],"text":"A particular person was n't requested to do a particular thing .","uID":"44-53"}
+{"idx":287,"targets":[{"span1":[5,6],"span_text":"do","label":0.0}],"text":"A particular person hollered to do a particular thing .","uID":"34-49"}
+{"idx":288,"targets":[{"span1":[7,8],"span_text":"have","label":1.2}],"text":"A particular person was n't pained to have a particular thing .","uID":"54-28"}
+{"idx":289,"targets":[{"span1":[6,7],"span_text":"happened","label":3.0}],"text":"Someone bitched that a particular thing happened","uID":"15-65"}
+{"idx":290,"targets":[{"span1":[8,9],"span_text":"happened","label":0.0}],"text":"Someone did n't will that a particular thing happened","uID":"11-33"}
+{"idx":291,"targets":[{"span1":[6,7],"span_text":"have","label":2.4}],"text":"A particular person was mortified to have a particular thing .","uID":"32-17"}
+{"idx":292,"targets":[{"span1":[8,9],"span_text":"happened","label":-0.6}],"text":"John did n't email that a particular thing happened","uID":"16-5"}
+{"idx":293,"targets":[{"span1":[7,8],"span_text":"happened","label":2.1}],"text":"John was pleased that a particular thing happened","uID":"27-41"}
+{"idx":294,"targets":[{"span1":[8,9],"span_text":"happened","label":0.3}],"text":"John was n't deceived that a particular thing happened","uID":"20-52"}
+{"idx":295,"targets":[{"span1":[6,7],"span_text":"have","label":-0.3}],"text":"A particular person was gossipped to have a particular thing .","uID":"75-4"}
+{"idx":296,"targets":[{"span1":[6,7],"span_text":"happened","label":1.5}],"text":"Someone insisted that a particular thing happened","uID":"12-51"}
+{"idx":297,"targets":[{"span1":[7,8],"span_text":"happened","label":3.0}],"text":"John was annoyed that a particular thing happened","uID":"19-64"}
+{"idx":298,"targets":[{"span1":[8,9],"span_text":"happened","label":2.7}],"text":"John was freaked out that a particular thing happened","uID":"18-66"}
+{"idx":299,"targets":[{"span1":[7,8],"span_text":"do","label":0.3}],"text":"A particular person was n't enraged to do a particular thing .","uID":"67-16"}
+{"idx":300,"targets":[{"span1":[8,9],"span_text":"happened","label":-0.3}],"text":"John did n't perceive that a particular thing happened","uID":"18-28"}
+{"idx":301,"targets":[{"span1":[7,8],"span_text":"do","label":0.0}],"text":"A particular person was n't okayed to do a particular thing .","uID":"34-35"}
+{"idx":302,"targets":[{"span1":[7,8],"span_text":"happened","label":2.7}],"text":"Someone was invigorated that a particular thing happened","uID":"9-40"}
+{"idx":303,"targets":[{"span1":[7,8],"span_text":"do","label":0.9}],"text":"A particular person was n't displeased to do a particular thing .","uID":"58-33"}
+{"idx":304,"targets":[{"span1":[6,7],"span_text":"happened","label":2.7}],"text":"John documented that a particular thing happened","uID":"28-29"}
+{"idx":305,"targets":[{"span1":[7,8],"span_text":"happen","label":0.0}],"text":"Someone probed for a particular thing to happen .","uID":"71-18"}
+{"idx":306,"targets":[{"span1":[6,7],"span_text":"do","label":1.2}],"text":"A particular person was depicted to do a particular thing .","uID":"32-28"}
+{"idx":307,"targets":[{"span1":[8,9],"span_text":"happened","label":0.6}],"text":"John did n't bicker that a particular thing happened","uID":"30-36"}
+{"idx":308,"targets":[{"span1":[7,8],"span_text":"happen","label":0.3}],"text":"Someone confided for a particular thing to happen .","uID":"41-43"}
+{"idx":309,"targets":[{"span1":[7,8],"span_text":"do","label":-1.3333333333}],"text":"A particular person was n't trained to do a particular thing .","uID":"51-17"}
+{"idx":310,"targets":[{"span1":[5,6],"span_text":"have","label":2.1}],"text":"A particular person affirmed to have a particular thing .","uID":"54-36"}
+{"idx":311,"targets":[{"span1":[8,9],"span_text":"do","label":1.2}],"text":"Someone did n't refuse a particular person to do a particular thing .","uID":"64-7"}
+{"idx":312,"targets":[{"span1":[7,8],"span_text":"have","label":0.0}],"text":"A particular person was n't fancied to have a particular thing .","uID":"42-56"}
+{"idx":313,"targets":[{"span1":[7,8],"span_text":"have","label":-1.2}],"text":"A particular person did n't fantasize to have a particular thing .","uID":"61-13"}
+{"idx":314,"targets":[{"span1":[7,8],"span_text":"happened","label":3.0}],"text":"John was astonished that a particular thing happened","uID":"28-11"}
+{"idx":315,"targets":[{"span1":[8,9],"span_text":"happened","label":-0.3}],"text":"John did n't indict that a particular thing happened","uID":"18-56"}
+{"idx":316,"targets":[{"span1":[8,9],"span_text":"happen","label":0.9}],"text":"Someone flipped out for a particular thing to happen .","uID":"57-23"}
+{"idx":317,"targets":[{"span1":[6,7],"span_text":"happened","label":2.1}],"text":"John established that a particular thing happened","uID":"27-9"}
+{"idx":318,"targets":[{"span1":[8,9],"span_text":"happened","label":-0.3}],"text":"Someone did n't establish that a particular thing happened","uID":"14-55"}
+{"idx":319,"targets":[{"span1":[6,7],"span_text":"do","label":0.3}],"text":"A particular person was lobbied to do a particular thing .","uID":"67-33"}
+{"idx":320,"targets":[{"span1":[8,9],"span_text":"happened","label":0.6}],"text":"Someone did n't prejudge that a particular thing happened","uID":"6-56"}
+{"idx":321,"targets":[{"span1":[6,7],"span_text":"have","label":0.3}],"text":"Someone expected a particular person to have a particular thing .","uID":"36-2"}
+{"idx":322,"targets":[{"span1":[6,7],"span_text":"happened","label":2.7}],"text":"John shared that a particular thing happened","uID":"28-28"}
+{"idx":323,"targets":[{"span1":[6,7],"span_text":"happened","label":0.6}],"text":"John mused that a particular thing happened","uID":"18-9"}
+{"idx":324,"targets":[{"span1":[6,7],"span_text":"happened","label":0.9}],"text":"John insinuated that a particular thing happened","uID":"31-29"}
+{"idx":325,"targets":[{"span1":[8,9],"span_text":"happened","label":1.5}],"text":"John did n't despair that a particular thing happened","uID":"22-18"}
+{"idx":326,"targets":[{"span1":[7,8],"span_text":"happen","label":0.3}],"text":"Someone conspired for a particular thing to happen .","uID":"42-22"}
+{"idx":327,"targets":[{"span1":[7,8],"span_text":"happened","label":2.4}],"text":"Someone was mortified that a particular thing happened","uID":"11-47"}
+{"idx":328,"targets":[{"span1":[7,8],"span_text":"have","label":1.5}],"text":"A particular person was n't petrified to have a particular thing .","uID":"53-47"}
+{"idx":329,"targets":[{"span1":[8,9],"span_text":"happened","label":0.6}],"text":"John did n't fuss that a particular thing happened","uID":"27-31"}
+{"idx":330,"targets":[{"span1":[6,7],"span_text":"happened","label":1.2}],"text":"Someone inferred that a particular thing happened","uID":"2-50"}
+{"idx":331,"targets":[{"span1":[6,7],"span_text":"do","label":1.0}],"text":"Someone shaped a particular person to do a particular thing .","uID":"51-14"}
+{"idx":332,"targets":[{"span1":[5,6],"span_text":"do","label":0.0}],"text":"A particular person supposed to do a particular thing .","uID":"77-6"}
+{"idx":333,"targets":[{"span1":[6,7],"span_text":"happened","label":0.9}],"text":"Someone mused that a particular thing happened","uID":"7-54"}
+{"idx":334,"targets":[{"span1":[8,9],"span_text":"happened","label":2.0}],"text":"Someone did n't disregard that a particular thing happened","uID":"0-3"}
+{"idx":335,"targets":[{"span1":[6,7],"span_text":"happened","label":3.0}],"text":"John spotted that a particular thing happened","uID":"18-12"}
+{"idx":336,"targets":[{"span1":[7,8],"span_text":"do","label":-2.1}],"text":"A particular person did n't move to do a particular thing .","uID":"58-14"}
+{"idx":337,"targets":[{"span1":[8,9],"span_text":"happened","label":1.2}],"text":"John was n't foretold that a particular thing happened","uID":"29-10"}
+{"idx":338,"targets":[{"span1":[6,7],"span_text":"happened","label":2.7}],"text":"Someone signalled that a particular thing happened","uID":"5-26"}
+{"idx":339,"targets":[{"span1":[8,9],"span_text":"happened","label":0.3}],"text":"John did n't praise that a particular thing happened","uID":"16-15"}
+{"idx":340,"targets":[{"span1":[9,10],"span_text":"happen","label":0.0}],"text":"Someone did n't cry for a particular thing to happen .","uID":"34-42"}
+{"idx":341,"targets":[{"span1":[7,8],"span_text":"do","label":0.0}],"text":"A particular person was n't demanded to do a particular thing .","uID":"55-13"}
+{"idx":342,"targets":[{"span1":[7,8],"span_text":"do","label":-1.2}],"text":"A particular person was n't roused to do a particular thing .","uID":"65-23"}
+{"idx":343,"targets":[{"span1":[6,7],"span_text":"happened","label":2.4}],"text":"John related that a particular thing happened","uID":"22-64"}
+{"idx":344,"targets":[{"span1":[8,9],"span_text":"do","label":-1.8}],"text":"Someone did n't exploit a particular person to do a particular thing .","uID":"56-54"}
+{"idx":345,"targets":[{"span1":[7,8],"span_text":"have","label":0.3}],"text":"A particular person was n't joked to have a particular thing .","uID":"55-42"}
+{"idx":346,"targets":[{"span1":[6,7],"span_text":"happened","label":1.8}],"text":"Someone missed that a particular thing happened","uID":"5-7"}
+{"idx":347,"targets":[{"span1":[6,7],"span_text":"have","label":1.2}],"text":"A particular person was appointed to have a particular thing .","uID":"54-52"}
+{"idx":348,"targets":[{"span1":[6,7],"span_text":"have","label":0.9}],"text":"Someone phoned a particular person to have a particular thing .","uID":"69-38"}
+{"idx":349,"targets":[{"span1":[8,9],"span_text":"happened","label":1.2}],"text":"Someone did n't calculate that a particular thing happened","uID":"7-65"}
+{"idx":350,"targets":[{"span1":[7,8],"span_text":"have","label":1.8}],"text":"A particular person was n't comforted to have a particular thing .","uID":"76-29"}
+{"idx":351,"targets":[{"span1":[7,8],"span_text":"have","label":0.6}],"text":"A particular person was signed up to have a particular thing .","uID":"45-50"}
+{"idx":352,"targets":[{"span1":[8,9],"span_text":"happen","label":0.6}],"text":"Someone signed on for a particular thing to happen .","uID":"80-1"}
+{"idx":353,"targets":[{"span1":[6,7],"span_text":"do","label":2.7}],"text":"A particular person was persuaded to do a particular thing .","uID":"36-32"}
+{"idx":354,"targets":[{"span1":[7,8],"span_text":"happen","label":-0.3}],"text":"Someone disliked for a particular thing to happen .","uID":"42-39"}
+{"idx":355,"targets":[{"span1":[8,9],"span_text":"happened","label":0.3}],"text":"Someone was n't tweeted that a particular thing happened","uID":"6-67"}
+{"idx":356,"targets":[{"span1":[6,7],"span_text":"do","label":2.4}],"text":"Someone scared a particular person to do a particular thing .","uID":"46-51"}
+{"idx":357,"targets":[{"span1":[5,6],"span_text":"have","label":0.9}],"text":"A particular person liked to have a particular thing .","uID":"36-57"}
+{"idx":358,"targets":[{"span1":[7,8],"span_text":"have","label":-1.2}],"text":"A particular person was n't lauded to have a particular thing .","uID":"80-27"}
+{"idx":359,"targets":[{"span1":[8,9],"span_text":"happened","label":0.3}],"text":"Someone did n't narrate that a particular thing happened","uID":"14-4"}
+{"idx":360,"targets":[{"span1":[7,8],"span_text":"do","label":-0.6}],"text":"A particular person did n't demand to do a particular thing .","uID":"53-7"}
+{"idx":361,"targets":[{"span1":[8,9],"span_text":"happened","label":0.3}],"text":"John did n't manufacture that a particular thing happened","uID":"23-67"}
+{"idx":362,"targets":[{"span1":[7,8],"span_text":"have","label":-0.9}],"text":"A particular person did n't confide to have a particular thing .","uID":"35-18"}
+{"idx":363,"targets":[{"span1":[8,9],"span_text":"do","label":-1.2}],"text":"Someone did n't seek a particular person to do a particular thing .","uID":"54-40"}
+{"idx":364,"targets":[{"span1":[6,7],"span_text":"happened","label":0.0}],"text":"Someone insinuated that a particular thing happened","uID":"5-24"}
+{"idx":365,"targets":[{"span1":[8,9],"span_text":"have","label":-0.6}],"text":"Someone did n't imply a particular person to have a particular thing .","uID":"54-6"}
+{"idx":366,"targets":[{"span1":[6,7],"span_text":"do","label":0.3}],"text":"A particular person was told to do a particular thing .","uID":"64-30"}
+{"idx":367,"targets":[{"span1":[6,7],"span_text":"do","label":3.0}],"text":"A particular person was observed to do a particular thing .","uID":"60-8"}
+{"idx":368,"targets":[{"span1":[6,7],"span_text":"have","label":0.0}],"text":"A particular person was desired to have a particular thing .","uID":"44-21"}
+{"idx":369,"targets":[{"span1":[8,9],"span_text":"do","label":0.3}],"text":"Someone did n't deny a particular person to do a particular thing .","uID":"53-38"}
+{"idx":370,"targets":[{"span1":[7,8],"span_text":"happened","label":1.2}],"text":"John was tweeted that a particular thing happened","uID":"26-37"}
+{"idx":371,"targets":[{"span1":[7,8],"span_text":"do","label":-1.5}],"text":"A particular person was n't asked to do a particular thing .","uID":"73-17"}
+{"idx":372,"targets":[{"span1":[9,10],"span_text":"happen","label":-0.6}],"text":"Someone did n't guarantee for a particular thing to happen .","uID":"46-1"}
+{"idx":373,"targets":[{"span1":[5,6],"span_text":"do","label":-0.3}],"text":"A particular person pondered to do a particular thing .","uID":"44-24"}
+{"idx":374,"targets":[{"span1":[9,10],"span_text":"happen","label":0.0}],"text":"Someone did n't will for a particular thing to happen .","uID":"36-15"}
+{"idx":375,"targets":[{"span1":[6,7],"span_text":"happened","label":3.0}],"text":"John approved that a particular thing happened","uID":"21-60"}
+{"idx":376,"targets":[{"span1":[6,7],"span_text":"happened","label":-0.6}],"text":"Someone dispelled that a particular thing happened","uID":"10-11"}
+{"idx":377,"targets":[{"span1":[8,9],"span_text":"happened","label":0.6}],"text":"John was n't questioned that a particular thing happened","uID":"24-35"}
+{"idx":378,"targets":[{"span1":[5,6],"span_text":"do","label":2.4}],"text":"A particular person chose to do a particular thing .","uID":"68-41"}
+{"idx":379,"targets":[{"span1":[7,8],"span_text":"happened","label":2.7}],"text":"John was hurt that a particular thing happened","uID":"30-35"}
+{"idx":380,"targets":[{"span1":[8,9],"span_text":"do","label":0.0}],"text":"Someone did n't guide a particular person to do a particular thing .","uID":"55-12"}
+{"idx":381,"targets":[{"span1":[5,6],"span_text":"do","label":1.5}],"text":"A particular person undertook to do a particular thing .","uID":"48-33"}
+{"idx":382,"targets":[{"span1":[8,9],"span_text":"do","label":-0.6}],"text":"Someone did n't torture a particular person to do a particular thing .","uID":"35-42"}
+{"idx":383,"targets":[{"span1":[8,9],"span_text":"happened","label":1.2}],"text":"John did n't document that a particular thing happened","uID":"20-59"}
+{"idx":384,"targets":[{"span1":[8,9],"span_text":"happened","label":-0.3}],"text":"John did n't brag that a particular thing happened","uID":"19-11"}
+{"idx":385,"targets":[{"span1":[8,9],"span_text":"happened","label":1.8}],"text":"John was n't agitated that a particular thing happened","uID":"29-61"}
+{"idx":386,"targets":[{"span1":[7,8],"span_text":"happen","label":0.0}],"text":"Someone deliberated for a particular thing to happen .","uID":"32-55"}
+{"idx":387,"targets":[{"span1":[8,9],"span_text":"happened","label":0.3}],"text":"John did n't type that a particular thing happened","uID":"17-27"}
+{"idx":388,"targets":[{"span1":[7,8],"span_text":"have","label":-0.3}],"text":"A particular person did n't holler to have a particular thing .","uID":"41-39"}
+{"idx":389,"targets":[{"span1":[7,8],"span_text":"happened","label":3.0}],"text":"John was flattered that a particular thing happened","uID":"18-52"}
+{"idx":390,"targets":[{"span1":[8,9],"span_text":"happened","label":-0.6}],"text":"John did n't measure that a particular thing happened","uID":"18-25"}
+{"idx":391,"targets":[{"span1":[7,8],"span_text":"do","label":-0.9}],"text":"A particular person was n't designated to do a particular thing .","uID":"33-37"}
+{"idx":392,"targets":[{"span1":[6,7],"span_text":"happened","label":0.0}],"text":"Someone generalized that a particular thing happened","uID":"0-63"}
+{"idx":393,"targets":[{"span1":[8,9],"span_text":"happened","label":0.6}],"text":"Someone did n't add that a particular thing happened","uID":"8-23"}
+{"idx":394,"targets":[{"span1":[7,8],"span_text":"happened","label":1.8}],"text":"Someone was frightened that a particular thing happened","uID":"7-51"}
+{"idx":395,"targets":[{"span1":[7,8],"span_text":"have","label":2.4}],"text":"A particular person was n't relieved to have a particular thing .","uID":"72-8"}
+{"idx":396,"targets":[{"span1":[6,7],"span_text":"do","label":1.2}],"text":"A particular person was thanked to do a particular thing .","uID":"71-11"}
+{"idx":397,"targets":[{"span1":[6,7],"span_text":"do","label":0.3333333333}],"text":"A particular person was assumed to do a particular thing .","uID":"51-56"}
+{"idx":398,"targets":[{"span1":[6,7],"span_text":"have","label":0.6}],"text":"A particular person was proposed to have a particular thing .","uID":"43-6"}
+{"idx":399,"targets":[{"span1":[6,7],"span_text":"happened","label":0.9}],"text":"Someone investigated that a particular thing happened","uID":"8-31"}
+{"idx":400,"targets":[{"span1":[6,7],"span_text":"happened","label":2.1}],"text":"John curst that a particular thing happened","uID":"21-50"}
+{"idx":401,"targets":[{"span1":[7,8],"span_text":"happened","label":0.9}],"text":"Someone was obsessed that a particular thing happened","uID":"8-63"}
+{"idx":402,"targets":[{"span1":[7,8],"span_text":"do","label":-0.3}],"text":"A particular person did n't need to do a particular thing .","uID":"70-19"}
+{"idx":403,"targets":[{"span1":[8,9],"span_text":"happened","label":0.0}],"text":"John did n't detect that a particular thing happened","uID":"17-2"}
+{"idx":404,"targets":[{"span1":[10,11],"span_text":"happen","label":0.9}],"text":"Someone did n't flip out for a particular thing to happen .","uID":"62-35"}
+{"idx":405,"targets":[{"span1":[7,8],"span_text":"do","label":-0.6666666667}],"text":"A particular person did n't okay to do a particular thing .","uID":"66-4"}
+{"idx":406,"targets":[{"span1":[6,7],"span_text":"happened","label":1.5}],"text":"John underestimated that a particular thing happened","uID":"25-21"}
+{"idx":407,"targets":[{"span1":[5,6],"span_text":"do","label":0.6}],"text":"A particular person decreed to do a particular thing .","uID":"42-46"}
+{"idx":408,"targets":[{"span1":[6,7],"span_text":"have","label":1.5}],"text":"A particular person was specified to have a particular thing .","uID":"40-15"}
+{"idx":409,"targets":[{"span1":[8,9],"span_text":"happened","label":2.7}],"text":"Someone was n't forgiven that a particular thing happened","uID":"1-58"}
+{"idx":410,"targets":[{"span1":[8,9],"span_text":"happened","label":-0.3}],"text":"John was n't guaranteed that a particular thing happened","uID":"18-7"}
+{"idx":411,"targets":[{"span1":[7,8],"span_text":"do","label":-1.2}],"text":"A particular person was n't exploited to do a particular thing .","uID":"50-29"}
+{"idx":412,"targets":[{"span1":[8,9],"span_text":"happened","label":0.9}],"text":"Someone was n't alerted that a particular thing happened","uID":"14-15"}
+{"idx":413,"targets":[{"span1":[5,6],"span_text":"do","label":0.9}],"text":"A particular person sensed to do a particular thing .","uID":"74-38"}
+{"idx":414,"targets":[{"span1":[6,7],"span_text":"do","label":0.3}],"text":"Someone prepared a particular person to do a particular thing .","uID":"60-6"}
+{"idx":415,"targets":[{"span1":[5,6],"span_text":"do","label":1.5}],"text":"A particular person selected to do a particular thing .","uID":"73-7"}
+{"idx":416,"targets":[{"span1":[6,7],"span_text":"have","label":2.7}],"text":"A particular person fessed up to have a particular thing .","uID":"73-5"}
+{"idx":417,"targets":[{"span1":[8,9],"span_text":"happened","label":2.6666666667}],"text":"Someone was n't scared that a particular thing happened","uID":"0-61"}
+{"idx":418,"targets":[{"span1":[8,9],"span_text":"happened","label":0.9}],"text":"Someone did n't ordain that a particular thing happened","uID":"1-68"}
+{"idx":419,"targets":[{"span1":[6,7],"span_text":"have","label":0.0}],"text":"Someone presumed a particular person to have a particular thing .","uID":"79-5"}
+{"idx":420,"targets":[{"span1":[9,10],"span_text":"happen","label":0.0}],"text":"Someone did n't remain for a particular thing to happen .","uID":"44-54"}
+{"idx":421,"targets":[{"span1":[6,7],"span_text":"have","label":2.4}],"text":"A particular person was crushed to have a particular thing .","uID":"75-12"}
+{"idx":422,"targets":[{"span1":[6,7],"span_text":"happened","label":1.8}],"text":"John underscored that a particular thing happened","uID":"26-1"}
+{"idx":423,"targets":[{"span1":[6,7],"span_text":"do","label":1.2}],"text":"A particular person was flattered to do a particular thing .","uID":"71-17"}
+{"idx":424,"targets":[{"span1":[6,7],"span_text":"happened","label":3.0}],"text":"John remembered that a particular thing happened","uID":"26-20"}
+{"idx":425,"targets":[{"span1":[7,8],"span_text":"have","label":-1.3333333333}],"text":"A particular person was n't opted to have a particular thing .","uID":"66-41"}
+{"idx":426,"targets":[{"span1":[6,7],"span_text":"happened","label":1.8}],"text":"John ruled that a particular thing happened","uID":"31-66"}
+{"idx":427,"targets":[{"span1":[7,8],"span_text":"do","label":-1.8}],"text":"A particular person did n't care to do a particular thing .","uID":"54-5"}
+{"idx":428,"targets":[{"span1":[7,8],"span_text":"have","label":-0.6}],"text":"A particular person was n't proven to have a particular thing .","uID":"49-33"}
+{"idx":429,"targets":[{"span1":[8,9],"span_text":"happened","label":0.3}],"text":"Someone did n't exhibit that a particular thing happened","uID":"12-15"}
+{"idx":430,"targets":[{"span1":[8,9],"span_text":"happened","label":0.0}],"text":"Someone did n't chant that a particular thing happened","uID":"12-6"}
+{"idx":431,"targets":[{"span1":[6,7],"span_text":"happened","label":0.0}],"text":"Someone conjectured that a particular thing happened","uID":"14-66"}
+{"idx":432,"targets":[{"span1":[8,9],"span_text":"happened","label":2.1}],"text":"Someone was n't unnerved that a particular thing happened","uID":"2-43"}
+{"idx":433,"targets":[{"span1":[7,8],"span_text":"happen","label":0.0}],"text":"Someone predicted for a particular thing to happen .","uID":"75-17"}
+{"idx":434,"targets":[{"span1":[7,8],"span_text":"have","label":0.0}],"text":"A particular person did n't pontificate to have a particular thing .","uID":"67-49"}
+{"idx":435,"targets":[{"span1":[8,9],"span_text":"happened","label":0.6}],"text":"Someone did n't repeat that a particular thing happened","uID":"11-64"}
+{"idx":436,"targets":[{"span1":[6,7],"span_text":"do","label":-0.3333333333}],"text":"A particular person was prophesied to do a particular thing .","uID":"66-49"}
+{"idx":437,"targets":[{"span1":[8,9],"span_text":"happened","label":0.3}],"text":"John did n't visualize that a particular thing happened","uID":"17-41"}
+{"idx":438,"targets":[{"span1":[5,6],"span_text":"have","label":0.3}],"text":"A particular person were to have a particular thing .","uID":"80-15"}
+{"idx":439,"targets":[{"span1":[8,9],"span_text":"happened","label":3.0}],"text":"John did n't resent that a particular thing happened","uID":"17-7"}
+{"idx":440,"targets":[{"span1":[7,8],"span_text":"happen","label":-0.3}],"text":"Someone prayed for a particular thing to happen .","uID":"73-28"}
+{"idx":441,"targets":[{"span1":[7,8],"span_text":"have","label":0.0}],"text":"A particular person was n't contemplated to have a particular thing .","uID":"46-31"}
+{"idx":442,"targets":[{"span1":[8,9],"span_text":"do","label":0.0}],"text":"Someone did n't motivate a particular person to do a particular thing .","uID":"46-19"}
+{"idx":443,"targets":[{"span1":[7,8],"span_text":"do","label":0.3}],"text":"A particular person was n't disallowed to do a particular thing .","uID":"76-6"}
+{"idx":444,"targets":[{"span1":[5,6],"span_text":"have","label":0.3333333333}],"text":"A particular person insinuated to have a particular thing .","uID":"81-39"}
+{"idx":445,"targets":[{"span1":[6,7],"span_text":"happened","label":2.7}],"text":"Someone cried that a particular thing happened","uID":"3-68"}
+{"idx":446,"targets":[{"span1":[7,8],"span_text":"have","label":-0.3}],"text":"A particular person was n't desired to have a particular thing .","uID":"49-34"}
+{"idx":447,"targets":[{"span1":[9,10],"span_text":"happen","label":-1.2}],"text":"Someone did n't probe for a particular thing to happen .","uID":"41-29"}
+{"idx":448,"targets":[{"span1":[7,8],"span_text":"have","label":-1.2}],"text":"A particular person did n't request to have a particular thing .","uID":"42-8"}
+{"idx":449,"targets":[{"span1":[7,8],"span_text":"do","label":-0.3}],"text":"A particular person did n't thirst to do a particular thing .","uID":"58-48"}
+{"idx":450,"targets":[{"span1":[7,8],"span_text":"do","label":2.4}],"text":"A particular person did n't fail to do a particular thing .","uID":"41-26"}
+{"idx":451,"targets":[{"span1":[6,7],"span_text":"have","label":2.1}],"text":"Someone required a particular person to have a particular thing .","uID":"74-2"}
+{"idx":452,"targets":[{"span1":[6,7],"span_text":"happened","label":2.7}],"text":"Someone groaned that a particular thing happened","uID":"13-66"}
+{"idx":453,"targets":[{"span1":[7,8],"span_text":"happen","label":0.0}],"text":"Someone cared for a particular thing to happen .","uID":"71-22"}
+{"idx":454,"targets":[{"span1":[7,8],"span_text":"do","label":-0.9}],"text":"A particular person was n't lectured to do a particular thing .","uID":"61-7"}
+{"idx":455,"targets":[{"span1":[6,7],"span_text":"do","label":3.0}],"text":"Someone forced a particular person to do a particular thing .","uID":"56-30"}
+{"idx":456,"targets":[{"span1":[6,7],"span_text":"happened","label":3.0}],"text":"Someone knew that a particular thing happened","uID":"14-11"}
+{"idx":457,"targets":[{"span1":[6,7],"span_text":"do","label":1.2}],"text":"Someone opted a particular person to do a particular thing .","uID":"52-2"}
+{"idx":458,"targets":[{"span1":[7,8],"span_text":"do","label":1.2}],"text":"A particular person was n't perplexed to do a particular thing .","uID":"80-56"}
+{"idx":459,"targets":[{"span1":[7,8],"span_text":"happened","label":2.7}],"text":"Someone was educated that a particular thing happened","uID":"3-1"}
+{"idx":460,"targets":[{"span1":[7,8],"span_text":"happen","label":0.0}],"text":"Someone declared for a particular thing to happen .","uID":"48-19"}
+{"idx":461,"targets":[{"span1":[7,8],"span_text":"do","label":-0.9}],"text":"A particular person was n't subdued to do a particular thing .","uID":"69-18"}
+{"idx":462,"targets":[{"span1":[7,8],"span_text":"happened","label":1.5}],"text":"John was notified that a particular thing happened","uID":"27-18"}
+{"idx":463,"targets":[{"span1":[8,9],"span_text":"have","label":-0.3}],"text":"Someone did n't theorize a particular person to have a particular thing .","uID":"56-39"}
+{"idx":464,"targets":[{"span1":[7,8],"span_text":"do","label":-0.9}],"text":"A particular person was n't portrayed to do a particular thing .","uID":"64-18"}
+{"idx":465,"targets":[{"span1":[8,9],"span_text":"do","label":-0.6666666667}],"text":"Someone did n't reassure a particular person to do a particular thing .","uID":"51-55"}
+{"idx":466,"targets":[{"span1":[9,10],"span_text":"happen","label":0.9}],"text":"Someone did n't refuse for a particular thing to happen .","uID":"77-7"}
+{"idx":467,"targets":[{"span1":[7,8],"span_text":"happened","label":1.2}],"text":"Someone was foretold that a particular thing happened","uID":"4-63"}
+{"idx":468,"targets":[{"span1":[6,7],"span_text":"have","label":0.0}],"text":"A particular person was qualified to have a particular thing .","uID":"79-33"}
+{"idx":469,"targets":[{"span1":[7,8],"span_text":"do","label":-0.6}],"text":"A particular person did n't answer to do a particular thing .","uID":"64-44"}
+{"idx":470,"targets":[{"span1":[5,6],"span_text":"do","label":0.3}],"text":"A particular person mumbled to do a particular thing .","uID":"40-21"}
+{"idx":471,"targets":[{"span1":[6,7],"span_text":"do","label":1.6666666667}],"text":"A particular person was roused to do a particular thing .","uID":"81-51"}
+{"idx":472,"targets":[{"span1":[7,8],"span_text":"do","label":0.3}],"text":"A particular person was n't educated to do a particular thing .","uID":"46-34"}
+{"idx":473,"targets":[{"span1":[7,8],"span_text":"happen","label":0.3}],"text":"Someone scrambled for a particular thing to happen .","uID":"56-56"}
+{"idx":474,"targets":[{"span1":[5,6],"span_text":"do","label":0.0}],"text":"A particular person preferred to do a particular thing .","uID":"79-55"}
+{"idx":475,"targets":[{"span1":[6,7],"span_text":"have","label":-0.6}],"text":"A particular person was frightened to have a particular thing .","uID":"74-23"}
+{"idx":476,"targets":[{"span1":[7,8],"span_text":"happen","label":-0.3}],"text":"Someone lusted for a particular thing to happen .","uID":"69-45"}
+{"idx":477,"targets":[{"span1":[8,9],"span_text":"happened","label":-0.3}],"text":"John did n't vow that a particular thing happened","uID":"18-47"}
+{"idx":478,"targets":[{"span1":[5,6],"span_text":"do","label":-0.9}],"text":"A particular person longed to do a particular thing .","uID":"68-25"}
+{"idx":479,"targets":[{"span1":[7,8],"span_text":"have","label":-0.9}],"text":"A particular person was n't indicated to have a particular thing .","uID":"42-2"}
+{"idx":480,"targets":[{"span1":[8,9],"span_text":"happened","label":-0.3}],"text":"John did n't suspect that a particular thing happened","uID":"25-6"}
+{"idx":481,"targets":[{"span1":[5,6],"span_text":"have","label":0.3}],"text":"A particular person dictated to have a particular thing .","uID":"43-1"}
+{"idx":482,"targets":[{"span1":[6,7],"span_text":"have","label":2.4}],"text":"A particular person was guaranteed to have a particular thing .","uID":"59-16"}
+{"idx":483,"targets":[{"span1":[8,9],"span_text":"happened","label":-0.3}],"text":"John did n't endorse that a particular thing happened","uID":"22-50"}
+{"idx":484,"targets":[{"span1":[7,8],"span_text":"do","label":0.0}],"text":"A particular person was n't hounded to do a particular thing .","uID":"39-49"}
+{"idx":485,"targets":[{"span1":[7,8],"span_text":"happen","label":1.5}],"text":"Someone manipulated for a particular thing to happen .","uID":"53-50"}
+{"idx":486,"targets":[{"span1":[8,9],"span_text":"happened","label":3.0}],"text":"Someone was n't distressed that a particular thing happened","uID":"13-17"}
+{"idx":487,"targets":[{"span1":[8,9],"span_text":"have","label":-0.6}],"text":"Someone did n't bribe a particular person to have a particular thing .","uID":"43-10"}
+{"idx":488,"targets":[{"span1":[7,8],"span_text":"happen","label":0.0}],"text":"Someone sighed for a particular thing to happen .","uID":"67-28"}
+{"idx":489,"targets":[{"span1":[8,9],"span_text":"happened","label":1.2}],"text":"Someone did n't gloat that a particular thing happened","uID":"5-59"}
+{"idx":490,"targets":[{"span1":[8,9],"span_text":"happened","label":2.7}],"text":"John was n't troubled that a particular thing happened","uID":"20-30"}
+{"idx":491,"targets":[{"span1":[8,9],"span_text":"happened","label":0.3}],"text":"Someone was n't shown that a particular thing happened","uID":"10-58"}
+{"idx":492,"targets":[{"span1":[7,8],"span_text":"have","label":-0.6}],"text":"A particular person was n't enlightened to have a particular thing .","uID":"65-50"}
+{"idx":493,"targets":[{"span1":[6,7],"span_text":"do","label":0.0}],"text":"Someone appointed a particular person to do a particular thing .","uID":"79-9"}
+{"idx":494,"targets":[{"span1":[8,9],"span_text":"happened","label":0.0}],"text":"Someone did n't snap that a particular thing happened","uID":"12-21"}
+{"idx":495,"targets":[{"span1":[6,7],"span_text":"do","label":-0.3}],"text":"Someone emailed a particular person to do a particular thing .","uID":"42-50"}
+{"idx":496,"targets":[{"span1":[6,7],"span_text":"have","label":-0.6}],"text":"A particular person was tempted to have a particular thing .","uID":"52-33"}
+{"idx":497,"targets":[{"span1":[8,9],"span_text":"happened","label":1.2}],"text":"John was n't fascinated that a particular thing happened","uID":"30-8"}
+{"idx":498,"targets":[{"span1":[6,7],"span_text":"do","label":1.2}],"text":"Someone backed a particular person to do a particular thing .","uID":"59-49"}
+{"idx":499,"targets":[{"span1":[6,7],"span_text":"do","label":0.3}],"text":"Someone recommended a particular person to do a particular thing .","uID":"55-47"}
+{"idx":500,"targets":[{"span1":[7,8],"span_text":"happened","label":3.0}],"text":"Someone was notified that a particular thing happened","uID":"10-18"}
+{"idx":501,"targets":[{"span1":[8,9],"span_text":"happened","label":0.3}],"text":"John was n't signalled that a particular thing happened","uID":"30-11"}
+{"idx":502,"targets":[{"span1":[7,8],"span_text":"do","label":1.8}],"text":"A particular person was n't thrilled to do a particular thing .","uID":"65-33"}
+{"idx":503,"targets":[{"span1":[7,8],"span_text":"do","label":1.5}],"text":"A particular person was n't gratified to do a particular thing .","uID":"37-16"}
+{"idx":504,"targets":[{"span1":[7,8],"span_text":"happen","label":0.6}],"text":"Someone planned for a particular thing to happen .","uID":"45-40"}
+{"idx":505,"targets":[{"span1":[8,9],"span_text":"do","label":-1.2}],"text":"Someone did n't send a particular person to do a particular thing .","uID":"80-17"}
+{"idx":506,"targets":[{"span1":[7,8],"span_text":"do","label":0.0}],"text":"A particular person was n't conveyed to do a particular thing .","uID":"39-11"}
+{"idx":507,"targets":[{"span1":[6,7],"span_text":"have","label":1.8}],"text":"Someone deemed a particular person to have a particular thing .","uID":"61-31"}
+{"idx":508,"targets":[{"span1":[7,8],"span_text":"do","label":-1.8}],"text":"A particular person was n't duped to do a particular thing .","uID":"33-12"}
+{"idx":509,"targets":[{"span1":[7,8],"span_text":"happen","label":0.6}],"text":"Someone prompted for a particular thing to happen .","uID":"65-36"}
+{"idx":510,"targets":[{"span1":[8,9],"span_text":"do","label":-0.6}],"text":"Someone did n't induce a particular person to do a particular thing .","uID":"64-39"}
+{"idx":511,"targets":[{"span1":[7,8],"span_text":"do","label":-0.3}],"text":"A particular person was n't consoled to do a particular thing .","uID":"54-10"}
+{"idx":512,"targets":[{"span1":[8,9],"span_text":"happened","label":2.4}],"text":"Someone was n't irked that a particular thing happened","uID":"8-20"}
+{"idx":513,"targets":[{"span1":[8,9],"span_text":"happened","label":0.3}],"text":"Someone did n't blog that a particular thing happened","uID":"13-31"}
+{"idx":514,"targets":[{"span1":[7,8],"span_text":"happen","label":-0.3}],"text":"Someone proposed for a particular thing to happen .","uID":"78-19"}
+{"idx":515,"targets":[{"span1":[5,6],"span_text":"have","label":0.9}],"text":"A particular person appeared to have a particular thing .","uID":"55-43"}
+{"idx":516,"targets":[{"span1":[6,7],"span_text":"do","label":-0.3}],"text":"Someone requested a particular person to do a particular thing .","uID":"70-7"}
+{"idx":517,"targets":[{"span1":[7,8],"span_text":"happened","label":0.6}],"text":"Someone was betted that a particular thing happened","uID":"12-30"}
+{"idx":518,"targets":[{"span1":[6,7],"span_text":"do","label":0.3}],"text":"A particular person was considered to do a particular thing .","uID":"65-56"}
+{"idx":519,"targets":[{"span1":[8,9],"span_text":"happened","label":3.0}],"text":"John was flipped out that a particular thing happened","uID":"31-53"}
+{"idx":520,"targets":[{"span1":[8,9],"span_text":"happened","label":0.0}],"text":"Someone did n't maintain that a particular thing happened","uID":"9-20"}
+{"idx":521,"targets":[{"span1":[7,8],"span_text":"have","label":2.1}],"text":"A particular person was n't startled to have a particular thing .","uID":"34-24"}
+{"idx":522,"targets":[{"span1":[6,7],"span_text":"happened","label":2.4}],"text":"John recognized that a particular thing happened","uID":"27-21"}
+{"idx":523,"targets":[{"span1":[8,9],"span_text":"do","label":-0.6666666667}],"text":"Someone did n't crave a particular person to do a particular thing .","uID":"52-57"}
+{"idx":524,"targets":[{"span1":[6,7],"span_text":"happened","label":-0.6}],"text":"John disagreed that a particular thing happened","uID":"18-8"}
+{"idx":525,"targets":[{"span1":[5,6],"span_text":"have","label":0.6}],"text":"A particular person touted to have a particular thing .","uID":"44-15"}
+{"idx":526,"targets":[{"span1":[6,7],"span_text":"happened","label":2.4}],"text":"Someone gabbed that a particular thing happened","uID":"10-36"}
+{"idx":527,"targets":[{"span1":[7,8],"span_text":"do","label":-1.2}],"text":"A particular person was n't prepared to do a particular thing .","uID":"53-32"}
+{"idx":528,"targets":[{"span1":[6,7],"span_text":"do","label":0.3}],"text":"A particular person was granted to do a particular thing .","uID":"42-13"}
+{"idx":529,"targets":[{"span1":[6,7],"span_text":"have","label":2.7}],"text":"A particular person was delighted to have a particular thing .","uID":"69-30"}
+{"idx":530,"targets":[{"span1":[8,9],"span_text":"happened","label":3.0}],"text":"John was n't amused that a particular thing happened","uID":"23-7"}
+{"idx":531,"targets":[{"span1":[7,8],"span_text":"do","label":-0.6}],"text":"A particular person was n't scheduled to do a particular thing .","uID":"75-34"}
+{"idx":532,"targets":[{"span1":[7,8],"span_text":"do","label":1.5}],"text":"A particular person did n't hasten to do a particular thing .","uID":"45-43"}
+{"idx":533,"targets":[{"span1":[9,10],"span_text":"happen","label":0.0}],"text":"Someone did n't fret for a particular thing to happen .","uID":"51-45"}
+{"idx":534,"targets":[{"span1":[8,9],"span_text":"have","label":0.9}],"text":"Someone did n't misjudge a particular person to have a particular thing .","uID":"61-42"}
+{"idx":535,"targets":[{"span1":[8,9],"span_text":"happened","label":0.0}],"text":"John did n't remember that a particular thing happened","uID":"28-17"}
+{"idx":536,"targets":[{"span1":[6,7],"span_text":"have","label":2.7}],"text":"Someone convinced a particular person to have a particular thing .","uID":"37-34"}
+{"idx":537,"targets":[{"span1":[6,7],"span_text":"happened","label":1.5}],"text":"John hooted that a particular thing happened","uID":"18-21"}
+{"idx":538,"targets":[{"span1":[7,8],"span_text":"have","label":-0.9}],"text":"A particular person was n't confirmed to have a particular thing .","uID":"61-39"}
+{"idx":539,"targets":[{"span1":[6,7],"span_text":"have","label":1.8}],"text":"Someone inspired a particular person to have a particular thing .","uID":"39-56"}
+{"idx":540,"targets":[{"span1":[7,8],"span_text":"have","label":0.0}],"text":"A particular person was n't prohibited to have a particular thing .","uID":"34-50"}
+{"idx":541,"targets":[{"span1":[7,8],"span_text":"have","label":-0.6}],"text":"A particular person was n't proclaimed to have a particular thing .","uID":"42-45"}
+{"idx":542,"targets":[{"span1":[6,7],"span_text":"do","label":-0.6}],"text":"Someone discouraged a particular person to do a particular thing .","uID":"39-24"}
+{"idx":543,"targets":[{"span1":[8,9],"span_text":"have","label":-1.5}],"text":"Someone did n't persuade a particular person to have a particular thing .","uID":"55-33"}
+{"idx":544,"targets":[{"span1":[8,9],"span_text":"happened","label":2.4}],"text":"Someone was n't irritated that a particular thing happened","uID":"13-14"}
+{"idx":545,"targets":[{"span1":[6,7],"span_text":"happened","label":2.4}],"text":"John articulated that a particular thing happened","uID":"30-25"}
+{"idx":546,"targets":[{"span1":[7,8],"span_text":"have","label":0.3}],"text":"A particular person did n't prepare to have a particular thing .","uID":"34-37"}
+{"idx":547,"targets":[{"span1":[6,7],"span_text":"have","label":-0.3}],"text":"Someone requested a particular person to have a particular thing .","uID":"71-27"}
+{"idx":548,"targets":[{"span1":[7,8],"span_text":"happened","label":3.0}],"text":"John was excited that a particular thing happened","uID":"16-45"}
+{"idx":549,"targets":[{"span1":[6,7],"span_text":"have","label":0.3}],"text":"Someone offered a particular person to have a particular thing .","uID":"49-27"}
+{"idx":550,"targets":[{"span1":[8,9],"span_text":"happened","label":0.3}],"text":"Someone did n't volunteer that a particular thing happened","uID":"11-25"}
+{"idx":551,"targets":[{"span1":[7,8],"span_text":"do","label":-0.6}],"text":"A particular person was n't opted to do a particular thing .","uID":"60-7"}
+{"idx":552,"targets":[{"span1":[6,7],"span_text":"happened","label":1.8}],"text":"Someone advised that a particular thing happened","uID":"6-43"}
+{"idx":553,"targets":[{"span1":[5,6],"span_text":"have","label":0.3}],"text":"A particular person struggled to have a particular thing .","uID":"71-10"}
+{"idx":554,"targets":[{"span1":[6,7],"span_text":"happened","label":0.9}],"text":"John overheard that a particular thing happened","uID":"18-23"}
+{"idx":555,"targets":[{"span1":[5,6],"span_text":"have","label":2.7}],"text":"A particular person began to have a particular thing .","uID":"75-23"}
+{"idx":556,"targets":[{"span1":[7,8],"span_text":"do","label":-1.2}],"text":"A particular person was n't needed to do a particular thing .","uID":"64-17"}
+{"idx":557,"targets":[{"span1":[8,9],"span_text":"happened","label":0.9}],"text":"John did n't grieve that a particular thing happened","uID":"19-68"}
+{"idx":558,"targets":[{"span1":[8,9],"span_text":"do","label":0.0}],"text":"Someone did n't vote a particular person to do a particular thing .","uID":"56-27"}
+{"idx":559,"targets":[{"span1":[6,7],"span_text":"happened","label":0.0}],"text":"Someone feared that a particular thing happened","uID":"7-21"}
+{"idx":560,"targets":[{"span1":[9,10],"span_text":"happen","label":0.0}],"text":"Someone did n't advocate for a particular thing to happen .","uID":"76-15"}
+{"idx":561,"targets":[{"span1":[8,9],"span_text":"happened","label":-0.3}],"text":"John did n't insist that a particular thing happened","uID":"16-43"}
+{"idx":562,"targets":[{"span1":[5,6],"span_text":"do","label":0.9}],"text":"A particular person appealed to do a particular thing .","uID":"64-35"}
+{"idx":563,"targets":[{"span1":[7,8],"span_text":"happen","label":0.0}],"text":"Someone betted for a particular thing to happen .","uID":"35-46"}
+{"idx":564,"targets":[{"span1":[6,7],"span_text":"happened","label":2.4}],"text":"Someone guaranteed that a particular thing happened","uID":"13-34"}
+{"idx":565,"targets":[{"span1":[7,8],"span_text":"have","label":1.5}],"text":"A particular person was signed on to have a particular thing .","uID":"33-23"}
+{"idx":566,"targets":[{"span1":[6,7],"span_text":"happened","label":1.2}],"text":"Someone judged that a particular thing happened","uID":"4-40"}
+{"idx":567,"targets":[{"span1":[8,9],"span_text":"happened","label":1.2}],"text":"Someone did n't update that a particular thing happened","uID":"2-9"}
+{"idx":568,"targets":[{"span1":[6,7],"span_text":"happened","label":1.5}],"text":"Someone elaborated that a particular thing happened","uID":"6-31"}
+{"idx":569,"targets":[{"span1":[6,7],"span_text":"do","label":-0.3}],"text":"Someone sought a particular person to do a particular thing .","uID":"61-20"}
+{"idx":570,"targets":[{"span1":[6,7],"span_text":"do","label":1.2}],"text":"A particular person was decreed to do a particular thing .","uID":"50-49"}
+{"idx":571,"targets":[{"span1":[5,6],"span_text":"do","label":0.0}],"text":"A particular person screeched to do a particular thing .","uID":"50-5"}
+{"idx":572,"targets":[{"span1":[8,9],"span_text":"happened","label":0.0}],"text":"John did n't show that a particular thing happened","uID":"24-18"}
+{"idx":573,"targets":[{"span1":[7,8],"span_text":"happen","label":-0.3}],"text":"Someone aimed for a particular thing to happen .","uID":"39-17"}
+{"idx":574,"targets":[{"span1":[6,7],"span_text":"have","label":1.5}],"text":"A particular person was permitted to have a particular thing .","uID":"62-20"}
+{"idx":575,"targets":[{"span1":[8,9],"span_text":"do","label":-0.9}],"text":"Someone did n't lead a particular person to do a particular thing .","uID":"80-21"}
+{"idx":576,"targets":[{"span1":[6,7],"span_text":"do","label":0.9}],"text":"A particular person was resolved to do a particular thing .","uID":"43-53"}
+{"idx":577,"targets":[{"span1":[8,9],"span_text":"do","label":0.0}],"text":"Someone did n't threaten a particular person to do a particular thing .","uID":"49-45"}
+{"idx":578,"targets":[{"span1":[6,7],"span_text":"do","label":0.6}],"text":"A particular person was signified to do a particular thing .","uID":"47-39"}
+{"idx":579,"targets":[{"span1":[8,9],"span_text":"happened","label":0.9}],"text":"John did n't conceal that a particular thing happened","uID":"24-40"}
+{"idx":580,"targets":[{"span1":[7,8],"span_text":"happened","label":2.7}],"text":"John was satisfied that a particular thing happened","uID":"17-68"}
+{"idx":581,"targets":[{"span1":[8,9],"span_text":"happened","label":0.9}],"text":"John was n't revolted that a particular thing happened","uID":"28-25"}
+{"idx":582,"targets":[{"span1":[6,7],"span_text":"happened","label":2.4}],"text":"Someone described that a particular thing happened","uID":"1-57"}
+{"idx":583,"targets":[{"span1":[8,9],"span_text":"happened","label":3.0}],"text":"Someone was n't pleased that a particular thing happened","uID":"12-32"}
+{"idx":584,"targets":[{"span1":[8,9],"span_text":"happened","label":1.2}],"text":"Someone did n't celebrate that a particular thing happened","uID":"13-39"}
+{"idx":585,"targets":[{"span1":[6,7],"span_text":"happened","label":3.0}],"text":"Someone disliked that a particular thing happened","uID":"5-25"}
+{"idx":586,"targets":[{"span1":[8,9],"span_text":"happened","label":-0.3}],"text":"John was n't betted that a particular thing happened","uID":"31-54"}
+{"idx":587,"targets":[{"span1":[6,7],"span_text":"happened","label":0.3}],"text":"John trusted that a particular thing happened","uID":"21-8"}
+{"idx":588,"targets":[{"span1":[7,8],"span_text":"happen","label":-0.3333333333}],"text":"Someone begged for a particular thing to happen .","uID":"38-15"}
+{"idx":589,"targets":[{"span1":[7,8],"span_text":"happened","label":2.7}],"text":"Someone was satisfied that a particular thing happened","uID":"5-55"}
+{"idx":590,"targets":[{"span1":[8,9],"span_text":"do","label":-1.2}],"text":"Someone did n't incite a particular person to do a particular thing .","uID":"57-43"}
+{"idx":591,"targets":[{"span1":[8,9],"span_text":"have","label":-1.2}],"text":"Someone did n't tap a particular person to have a particular thing .","uID":"79-44"}
+{"idx":592,"targets":[{"span1":[8,9],"span_text":"happened","label":0.9}],"text":"Someone did n't snitch that a particular thing happened","uID":"10-49"}
+{"idx":593,"targets":[{"span1":[5,6],"span_text":"have","label":1.2}],"text":"A particular person seemed to have a particular thing .","uID":"33-2"}
+{"idx":594,"targets":[{"span1":[7,8],"span_text":"do","label":-0.9}],"text":"A particular person was n't coerced to do a particular thing .","uID":"62-54"}
+{"idx":595,"targets":[{"span1":[6,7],"span_text":"do","label":2.4}],"text":"Someone provoked a particular person to do a particular thing .","uID":"58-11"}
+{"idx":596,"targets":[{"span1":[7,8],"span_text":"happen","label":-2.4}],"text":"Someone refused for a particular thing to happen .","uID":"65-41"}
+{"idx":597,"targets":[{"span1":[6,7],"span_text":"do","label":0.9}],"text":"A particular person was harassed to do a particular thing .","uID":"60-11"}
+{"idx":598,"targets":[{"span1":[6,7],"span_text":"have","label":2.4}],"text":"A particular person was observed to have a particular thing .","uID":"47-16"}
+{"idx":599,"targets":[{"span1":[6,7],"span_text":"have","label":1.2}],"text":"A particular person was stipulated to have a particular thing .","uID":"32-47"}
+{"idx":600,"targets":[{"span1":[6,7],"span_text":"have","label":1.8}],"text":"A particular person was disturbed to have a particular thing .","uID":"44-22"}
+{"idx":601,"targets":[{"span1":[6,7],"span_text":"happened","label":1.2}],"text":"John bickered that a particular thing happened","uID":"28-18"}
+{"idx":602,"targets":[{"span1":[7,8],"span_text":"have","label":1.8}],"text":"A particular person was n't irked to have a particular thing .","uID":"42-48"}
+{"idx":603,"targets":[{"span1":[6,7],"span_text":"happened","label":2.4}],"text":"Someone certified that a particular thing happened","uID":"4-6"}
+{"idx":604,"targets":[{"span1":[8,9],"span_text":"have","label":0.9}],"text":"Someone did n't charge a particular person to have a particular thing .","uID":"77-21"}
+{"idx":605,"targets":[{"span1":[7,8],"span_text":"do","label":-1.2}],"text":"A particular person did n't oblige to do a particular thing .","uID":"59-33"}
+{"idx":606,"targets":[{"span1":[7,8],"span_text":"happened","label":2.1}],"text":"John was chastised that a particular thing happened","uID":"27-12"}
+{"idx":607,"targets":[{"span1":[6,7],"span_text":"have","label":0.0}],"text":"Someone dared a particular person to have a particular thing .","uID":"46-41"}
+{"idx":608,"targets":[{"span1":[6,7],"span_text":"have","label":2.4}],"text":"A particular person was thrilled to have a particular thing .","uID":"53-48"}
+{"idx":609,"targets":[{"span1":[6,7],"span_text":"happened","label":2.7}],"text":"John squealed that a particular thing happened","uID":"24-5"}
+{"idx":610,"targets":[{"span1":[8,9],"span_text":"happened","label":2.7}],"text":"Someone was n't troubled that a particular thing happened","uID":"9-24"}
+{"idx":611,"targets":[{"span1":[8,9],"span_text":"happened","label":0.3}],"text":"Someone did n't convey that a particular thing happened","uID":"13-28"}
+{"idx":612,"targets":[{"span1":[6,7],"span_text":"happened","label":1.2}],"text":"John faxed that a particular thing happened","uID":"16-47"}
+{"idx":613,"targets":[{"span1":[5,6],"span_text":"do","label":1.8}],"text":"A particular person paused to do a particular thing .","uID":"49-43"}
+{"idx":614,"targets":[{"span1":[7,8],"span_text":"do","label":0.0}],"text":"A particular person was n't reprimanded to do a particular thing .","uID":"41-57"}
+{"idx":615,"targets":[{"span1":[7,8],"span_text":"happened","label":3.0}],"text":"John was astounded that a particular thing happened","uID":"16-50"}
+{"idx":616,"targets":[{"span1":[8,9],"span_text":"happened","label":1.8}],"text":"Someone did n't divulge that a particular thing happened","uID":"14-7"}
+{"idx":617,"targets":[{"span1":[5,6],"span_text":"have","label":0.3}],"text":"A particular person argued to have a particular thing .","uID":"52-14"}
+{"idx":618,"targets":[{"span1":[7,8],"span_text":"have","label":1.5}],"text":"A particular person was n't envied to have a particular thing .","uID":"48-7"}
+{"idx":619,"targets":[{"span1":[6,7],"span_text":"do","label":0.6}],"text":"A particular person was alerted to do a particular thing .","uID":"41-21"}
+{"idx":620,"targets":[{"span1":[6,7],"span_text":"happened","label":2.4}],"text":"Someone grinned that a particular thing happened","uID":"4-35"}
+{"idx":621,"targets":[{"span1":[8,9],"span_text":"happened","label":0.9}],"text":"John did n't expect that a particular thing happened","uID":"24-15"}
+{"idx":622,"targets":[{"span1":[7,8],"span_text":"have","label":3.0}],"text":"A particular person was n't shocked to have a particular thing .","uID":"79-22"}
+{"idx":623,"targets":[{"span1":[5,6],"span_text":"have","label":0.3}],"text":"A particular person aimed to have a particular thing .","uID":"59-29"}
+{"idx":624,"targets":[{"span1":[9,10],"span_text":"happen","label":-0.9}],"text":"Someone did n't mandate for a particular thing to happen .","uID":"78-15"}
+{"idx":625,"targets":[{"span1":[7,8],"span_text":"have","label":-0.6666666667}],"text":"A particular person was n't told to have a particular thing .","uID":"66-3"}
