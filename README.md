@@ -2,7 +2,7 @@
 
 This repository contains code and data release for the following paper:
 
-Nanjiang Jiang, Marie-Catherine de Marneffe. He knows better than the doctors: BERT for event factuality fails on pragmatics. To appear at TACL.
+[Nanjiang Jiang, Marie-Catherine de Marneffe. He knows better than the doctors: BERT for event factuality fails on pragmatics. TACL 2021](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00414/107616/He-Thinks-He-Knows-Better-than-the-Doctors-BERT)
 
 ### Getting started
 
